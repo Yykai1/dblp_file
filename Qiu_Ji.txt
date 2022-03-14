@@ -1,0 +1,30 @@
+Qiu Ji, Weizhuo Li, Shiqi Zhou, Guilin Qi, Yuan-Fang Li: Benchmark construction and experimental evaluations for incoherent ontologies. Knowl. Based Syst. 239: 108090 (2022)
+Weizhuo Li, Shiqi Zhou, Qiu Ji, Bingjie Lu: GMap results for OAEI 2021. OM@ISWC 2021: 152-159
+Weizhuo Li, Guilin Qi, Qiu Ji: Hybrid reasoning in knowledge graphs: Combing symbolic reasoning and statistical reasoning. Semantic Web 11(1): 53-62 (2020)
+Qiu Ji, Khaoula Boutouhami, Guilin Qi: Resolving Logical Contradictions in Description Logic Ontologies Based on Integer Linear Programming. IEEE Access 7: 71500-71510 (2019)
+Mengyi Zhang, Tianxing Wu, Qiu Ji, Guilin Qi, Zhixin Sun: Mining Hypernym-Hyponym Relations from Social Tags via Tag Embedding. ICAIS (3) 2019: 319-328
+Huan Gao, Guilin Qi, Qiu Ji: Schema induction from incomplete semantic data. Intell. Data Anal. 22(6): 1337-1353 (2018)
+Qiu Ji, Guilin Qi, Huan Gao, Tianxing Wu: Survey on Schema Induction from Knowledge Graphs. CCKS 2018: 136-142
+Weizhuo Li, Songmao Zhang, Guilin Qi, Xuefeng Fu, Qiu Ji: A Graph-Based Method for Interactive Mapping Revision. JIST 2018: 244-261
+Qiu Ji, Zhiqiang Gao, Zhisheng Huang, Man Zhu: Measuring effectiveness of ontology debugging systems. Knowl. Based Syst. 71: 169-186 (2014)
+Qiu Ji, Zhiqiang Gao, Zhisheng Huang: Conflict Resolution in Partially Ordered OWL DL Ontologies. ECAI 2014: 471-476
+Qiu Ji, Zhiqiang Gao, Zhisheng Huang: Integration of Pattern-Based Debugging Approach into RaDON. CSWS 2013: 243-246
+Ying Xu, Zhiqiang Gao, Campbell Wilson, Zhizheng Zhang, Man Zhu, Qiu Ji: Entity Correspondence with Second-Order Markov Logic. WISE (1) 2013: 1-14
+Qiu Ji, Zhiqiang Gao, Zhisheng Huang, Man Zhu: Semantic Precision and Recall for Evaluating Incoherent Ontology Mappings. AMT 2012: 338-347
+Qiu Ji, Zhiqiang Gao, Zhisheng Huang: Study of Ontology Debugging Approaches Based on the Criterion Set BLUEI2CI. CSWS 2012: 251-264
+Guilin Qi, Qiu Ji, Jeff Z. Pan, Jianfeng Du: Extending description logics with uncertainty reasoning in possibilistic logic. Int. J. Intell. Syst. 26(4): 353-381 (2011)
+Qiu Ji, Zhiqiang Gao, Zhisheng Huang, Man Zhu: An Efficient Approach to Debugging Ontologies Based on Patterns. JIST 2011: 425-433
+Qiu Ji, Zhiqiang Gao, Zhisheng Huang: Reasoning with Noisy Semantic Data. ESWC (2) 2011: 497-502
+Qiu Ji, Peter Haase, Guilin Qi: Combination of Similarity Measures in Ontology Matching Using the OWA Operator. Recent Developments in the Ordered Weighted Averaging Operators 2011: 281-295
+Guilin Qi, Qiu Ji, Jeff Z. Pan, Jianfeng Du: PossDL - A Possibilistic DL Reasoner for Uncertainty Reasoning and Inconsistency Handling. ESWC (2) 2010: 416-420
+Qiu Ji, Guilin Qi, Peter Haase: A Relevance-Directed Algorithm for Finding Justifications of DL Entailments. ASWC 2009: 306-320
+Guilin Qi, Qiu Ji, Peter Haase: A Conflict-based Operator for Mapping Revision. Description Logics 2009
+Qiu Ji, Peter Haase, Guilin Qi, Pascal Hitzler, Steffen Stadtmüller: RaDON - Repair and Diagnosis in Ontology Networks. ESWC 2009: 863-867
+Jianfeng Du, Guilin Qi, Qiu Ji: Goal-Directed Module Extraction for Explaining OWL DL Entailments. ISWC 2009: 163-179
+Guilin Qi, Qiu Ji, Peter Haase: A Conflict-Based Operator for Mapping Revision. ISWC 2009: 521-536
+Boontawee Suntisrivaraporn, Guilin Qi, Qiu Ji, Peter Haase: A Modularization-Based Approach to Finding All Justifications for OWL DL Entailments. ASWC 2008: 1-15
+Raúl Palma, Peter Haase, Óscar Corcho, Asunción Gómez-Pérez, Qiu Ji: An Editorial Workflow Approach For Collaborative Ontology Development. ASWC 2008: 227-241
+Guilin Qi, Peter Haase, Zhisheng Huang, Qiu Ji, Jeff Z. Pan, Johanna Völker: A Kernel Revision Operator for Terminologies - Algorithms and Evaluation. ISWC 2008: 419-434
+Guilin Qi, Jeff Z. Pan, Qiu Ji: A Possibilistic Extension of Description Logics. Description Logics 2007
+Guilin Qi, Jeff Z. Pan, Qiu Ji: Extending Description Logics with Uncertainty Reasoning in Possibilistic Logic. ECSQARU 2007: 828-839
+Qiu Ji, Weiru Liu, Guilin Qi, David A. Bell: LCS: A Linguistic Combination System for Ontology Matching. KSEM 2006: 176-189

@@ -1,0 +1,159 @@
+Wenjian Ding, Zhe Sun, Xingxing Wu, Zhenglu Yang, Jordi Solé-Casals, Cesar F. Caiafa: Tensor completion algorithms for estimating missing values in multi-channel audio signals. Comput. Electr. Eng. 97: 107561 (2022)
+Hangli Ge, Zhe Sun, Yasuhira Chiba, Noboru Koshizuka: Accurate indoor location awareness based on machine learning of environmental sensing data. Comput. Electr. Eng. 98: 107676 (2022)
+Yushu Sun, Jichao Zhou, Yibo Sun, Yang Zhou, Yunfeng Yu, Zhe Sun: Non-negative discriminative collective target nearest-neighbor representation. Int. J. Intell. Robotics Appl. 6(1): 1-9 (2022)
+Mengyao Zhao, Zhengping Hu, Shufang Li, Shuai Bi, Zhe Sun: Mask attention-guided graph convolution layer for weakly supervised temporal action detection. Multim. Tools Appl. 81(3): 4323-4340 (2022)
+Ran Li, Yuanfei Zhang, Lihua Yin, Zhe Sun, Zheng Lin, Peng Fu, Weiping Wang, Gang Shi: EmoMix+: An Approach of Depression Detection Based on Emotion Lexicon for Mobile Application. Secur. Commun. Networks 2022: 1208846:1-1208846:12 (2022)
+Hao Jia, Zhe Sun, Feng Duan, Yu Zhang, Cesar F. Caiafa, Jordi Solé-Casals: Improving Pre-movement Pattern Detection with Filter Bank Selection. CoRR abs/2201.12153 (2022)
+Hao Jia, Zhe Sun, Feng Duan, Yu Zhang, Cesar F. Caiafa, Jordi Solé-Casals: Towards Multi-class Pre-movement Classification. CoRR abs/2201.12157 (2022)
+Zhe Sun, Binghua Li, Feng Duan, Hao Jia, Shan Wang, Yu Liu, Andrzej Cichocki, Cesar F. Caiafa, Jordi Solé-Casals: WLnet: Towards an Approach for Robust Workload Estimation Based on Shallow Neural Networks. IEEE Access 9: 3165-3173 (2021)
+Shaojie Xu, Yan Li, Manareldeen Ahmed, Lidan Fang, Ning Jin, Bingheng Li, Shuyun Huo, Xiaoyong Lei, Zhe Sun, Heyuan Yu, Erping Li: A Novel Miniaturized Ultra-Wideband Frequency Selective Surface With Rapid Band Edge. IEEE Access 9: 161854-161861 (2021)
+Ying Tan, Zhe Sun, Feng Duan, Jordi Solé-Casals, Cesar F. Caiafa: A multimodal emotion recognition method based on facial expressions and electroencephalography. Biomed. Signal Process. Control. 70: 103029 (2021)
+Mingxin Zhang, Feng Duan, Shan Wang, Kai Zhang, Xuyi Chen, Zhe Sun: A Study of the Brain Network Connectivity in Visual-Word Pairing Associative Learning and Episodic Memory Reactivating Task. Comput. Intell. Neurosci. 2021: 5579888:1-5579888:13 (2021)
+Feng Duan, Hao Jia, Zhe Sun, Kai Zhang, Yangyang Dai, Yu Zhang: Decoding Premovement Patterns with Task-Related Component Analysis. Cogn. Comput. 13(5): 1389-1405 (2021)
+Lihua Yin, Jiyuan Feng, Sixin Lin, Zhiqiang Cao, Zhe Sun: A blockchain-based collaborative training method for multi-party data sharing. Comput. Commun. 173: 70-78 (2021)
+Yangyang Dai, Feng Duan, Fan Feng, Zhe Sun, Yu Zhang, Cesar F. Caiafa, Pere Martí-Puig, Jordi Solé-Casals: A Fast Approach to Removing Muscle Artifacts for EEG with Signal Serialization Based Ensemble Empirical Mode Decomposition. Entropy 23(9): 1170 (2021)
+Zhe Sun, Yawen Ling, Xin Tan, Yang Zhou, Zhixin Sun: Designing and application of type-2 fuzzy PID control for overhead crane systems. Int. J. Intell. Robotics Appl. 5(1): 10-22 (2021)
+Binghua Li, Zhiwen Zhang, Feng Duan, Zhenglu Yang, Qibin Zhao, Zhe Sun, Jordi Solé-Casals: Component-mixing strategy: A decomposition-based data augmentation algorithm for motor imagery signals. Neurocomputing 465: 325-335 (2021)
+Jin Zhang, Fan Feng, Pere Martí-Puig, Cesar F. Caiafa, Zhe Sun, Feng Duan, Jordi Solé-Casals: Serial-EMD: Fast empirical mode decomposition method for multi-dimensional signals based on serialization. Inf. Sci. 581: 215-232 (2021)
+Zheng-ping Hu, Rui-xue Zhang, Yue Qiu, Mengyao Zhao, Zhe Sun: 3D convolutional networks with multi-layer-pooling selection fusion for video classification. Multim. Tools Appl. 80(24): 33179-33192 (2021)
+Shufang Li, Zhengping Hu, Mengyao Zhao, Zhe Sun: Cascade-guided multi-scale attention network for crowd counting. Signal Image Video Process. 15(8): 1663-1670 (2021)
+Xianrong Zhang, Muhammad Shafiq, Guijun Zheng, Junping Wan, Zhe Sun: Premature Ventricular Contractions' Detection Based on Active Learning. Sci. Program. 2021: 5556011:1-5556011:14 (2021)
+Lihua Yin, Jiyuan Feng, Hao Xun, Zhe Sun, Xiaochun Cheng: A Privacy-Preserving Federated Learning for Multiparty Data Sharing in Social IoTs. IEEE Trans. Netw. Sci. Eng. 8(3): 2706-2718 (2021)
+Yingji Xia, Zhaowei Qu, Zhe Sun, Zhihui Li: A Human-Like Model to Understand Surrounding Vehicles' Lane Changing Intentions for Autonomous Driving. IEEE Trans. Veh. Technol. 70(5): 4178-4189 (2021)
+Yao Zhang, Xu Zhang, Jun Wang, Hongru Liang, Wenqiang Lei, Zhe Sun, Adam Jatowt, Zhenglu Yang: Generalized Relation Learning with Semantic Correlation Awareness for Link Prediction. AAAI 2021: 4679-4687
+Zhengkun Zhang, Jun Wang, Adam Jatowt, Zhe Sun, Shao-Ping Lu, Zhenglu Yang: News Content Completion with Location-Aware Image Selection. AAAI 2021: 14498-14505
+Zhengkun Zhang, Jun Wang, Zhe Sun, Zhenglu Yang: LAMS: A Location-aware Approach for Multimodal Summarization (Student Abstract). AAAI 2021: 15949-15950
+Lisha Ren, Zhe Sun, Yue Li: Understanding the Interrelation Between Prototype Cognition and Creativity in Interdisciplinary Design Course. AHFE (18) 2021: 315-322
+Zhe Sun, Wei Feng, Jintao Jin, Qujiang Lei, Guangchao Gui, Weijun Wang: Intelligent Fertilization System Based on Image Recognition. ICCCS 2021: 393-399
+Beibei Yu, Mingnan Hu, Zhe Sun, Bo Chen: Data Tampering Attack Design for ROS-Based Object Detection and Tracking Robotic Platform. ICCAIS 2021: 159-164
+Lina Zhang, Zhe Sun, Feng Duan, Chi Zhu, Hiroshi Yokoi: Mind Control of a Service Robot with Visual Servoing. IROS 2021: 3747-3752
+Shaohua Li, Yaming Zhang, Zhe Sun, Xiuming Yao: Composite Disturbance-observer-based Control and MPC for Discrete-Time T-S Fuzzy Semi-Markovian Jump Systems. SPAC 2021: 234-237
+Jin Zhang, Fan Feng, Pere Martí-Puig, Cesar F. Caiafa, Zhe Sun, Feng Duan, Jordi Solé-Casals: Serial-EMD: Fast Empirical Mode Decomposition Method for Multi-dimensional Signals Based on Serialization. CoRR abs/2106.15319 (2021)
+Zihao Huang, Zhe Sun, Feng Duan, Andrzej Cichocki, Peiying Ruan, Chao Li: L3C-Stereo: Lossless Compression for Stereo Images. CoRR abs/2108.09422 (2021)
+Xiaofang Li, Furu Lv, Feng Xiang, Zhe Sun, Zhixin Sun: Research on Key Technologies of Logistics Information Traceability Model Based on Consortium Chain. IEEE Access 8: 69754-69762 (2020)
+Zhe Sun, Zihao Huang, Feng Duan, Yu Liu: A Novel Multimodal Approach for Hybrid Brain-Computer Interface. IEEE Access 8: 89909-89918 (2020)
+Zhe Sun, Chi Hu, Chunlei Li, Linbo Wu: Domain Ontology Construction and Evaluation for the Entire Process of Software Testing. IEEE Access 8: 205374-205385 (2020)
+Linfeng Li, Peng Wang, Jun Yan, Yao Wang, Simin Li, Jinpeng Jiang, Zhe Sun, Buzhou Tang, Tsung-Hui Chang, Shenghui Wang, Yuting Liu: Real-world data medical knowledge graph: construction and applications. Artif. Intell. Medicine 103: 101817 (2020)
+Qing Zhou, Jin-Kao Hao, Zhe Sun, Qinghua Wu: Memetic search for composing medical crews with equity and efficiency. Appl. Soft Comput. 94: 106440 (2020)
+Zhe Sun, Lihua Yin, Chao Li, Weizhe Zhang, Ang Li, Zhihong Tian: The QoS and privacy trade-off of adversarial deep learning: An evolutionary game approach. Comput. Secur. 96: 101876 (2020)
+Zhe Sun, Xiaoqi Yang: A generalized Newton method for a class of discrete-time linear complementarity systems. Eur. J. Oper. Res. 286(1): 39-48 (2020)
+Lihua Yin, Binxing Fang, Yunchuan Guo, Zhe Sun, Zhihong Tian: Hierarchically defining Internet of Things security: From CIA to CACA. Int. J. Distributed Sens. Networks 16(1) (2020)
+Zhe Sun, Yawen Ling, Hongbo Qu, Feng Xiang, Zhixin Sun, Fan Wu: An Adaptive DE Algorithm Based Fuzzy Logic Anti-swing Controller for Overhead Crane Systems. Int. J. Fuzzy Syst. 22(6): 1905-1921 (2020)
+Xuejian Zhao, Xiaoxiao Xiong, Zhe Sun, Xinhui Zhang, Zhixin Sun: An immune clone selection based power control strategy for alleviating energy hole problems in wireless sensor networks. J. Ambient Intell. Humaniz. Comput. 11(6): 2505-2518 (2020)
+Yufeng Cai, Xiongjun Li, Zhe Sun, Yutong Lu, Huiying Zhao, Jack Hanson, Kuldip K. Paliwal, Thomas Litfin, Yaoqi Zhou, Yuedong Yang: SPOT-Fold: Fragment-Free Protein Structure Prediction Guided by Predicted Backbone Structure and Contact Map. J. Comput. Chem. 41(8): 745-750 (2020)
+Sheng Chen, Zhe Sun, Lihua Lin, Zifeng Liu, Xun Liu, Yutian Chong, Yutong Lu, Huiying Zhao, Yuedong Yang: To Improve Protein Sequence Profile Prediction through Image Captioning on Pairwise Residue Distance Map. J. Chem. Inf. Model. 60(1): 391-399 (2020)
+Shufang Li, Zhengping Hu, Mengyao Zhao, Zhe Sun: Crowd counting using cross-adversarial loss and global feature. J. Electronic Imaging 29(5): 053001 (2020)
+Zhe Sun, Jiayang Zou, Defeng He, Zhihong Man, Jinchuan Zheng: Collision-avoidance steering control for autonomous vehicles using neural network-based adaptive integral terminal sliding mode. J. Intell. Fuzzy Syst. 39(3): 4689-4702 (2020)
+Zhe Sun, Zheng-ping Hu, Mengyao Zhao, Shufang Li: Multi-scale active patches fusion based on spatiotemporal LBP-TOP for micro-expression recognition. J. Vis. Commun. Image Represent. 71: 102862 (2020)
+Zhe Sun, Raymond Chiong, Zheng-ping Hu: Self-adaptive feature learning based on a priori knowledge for facial expression recognition. Knowl. Based Syst. 204: 106124 (2020)
+Zhefeng Wu, Zhe Sun, Kai Gong, Lingyun Chen, Bin Liao, Yihua Jin: Hidden inheritance: an inline caching design for TypeScript performance. Proc. ACM Program. Lang. 4(OOPSLA): 174:1-174:29 (2020)
+Erji Du, Lin Zhao, Defu Zou, Ren Li, Zhiwei Wang, Xiaodong Wu, Guojie Hu, Yonghua Zhao, Guangyue Liu, Zhe Sun: Soil Moisture Calibration Equations for Active Layer GPR Detection - a Case Study Specially for the Qinghai-Tibet Plateau Permafrost Regions. Remote. Sens. 12(4): 605 (2020)
+Juhua Luo, Ruiliang Pu, Ronghua Ma, Xiaolong Wang, Xijun Lai, Zhigang Mao, Li Zhang, Zhaoliang Peng, Zhe Sun: Mapping Long-Term Spatiotemporal Dynamics of Pen Aquaculture in a Shallow Lake: Less Aquaculture Coming along Better Water Quality. Remote. Sens. 12(11): 1866 (2020)
+Zhe Sun, Juhua Luo, Jingzhicheng Yang, Qiuyan Yu, Li Zhang, Kun Xue, Lirong Lu: Nation-Scale Mapping of Coastal Aquaculture Ponds with Sentinel-1 SAR Data Using Google Earth Engine. Remote. Sens. 12(18): 3086 (2020)
+Zhe Sun, Raymond Chiong, Zhengping Hu, Shufang Li: Deep subspace learning for expression recognition driven by a two-phase representation classifier. Signal Image Video Process. 14(3): 437-444 (2020)
+Shangkun Deng, Youtao Xiang, Boyang Nan, Hongyu Tian, Zhe Sun: A hybrid model of dynamic time wrapping and hidden Markov model for forecasting and trading in crude oil market. Soft Comput. 24(9): 6655-6672 (2020)
+Zhe Sun: A Security Reinforcement Method for Intranet Computer Terminal. ICCCS 2020: 467-471
+Junping Wan, Hao Xun, Xianrong Zhang, Jiyuan Feng, Zhe Sun: A privacy-preserving and correctness audit method in multi-party data sharing. CIAT 2020: 414-419
+Zhe Sun, Carlos Parra, Ji Won Bang, Els Fieremans, Gadi Wollstein, Joel S. Schuman, Kevin C. Chan: Diffusion Kurtosis Imaging Reveals Optic Tract Damage That Correlates with Clinical Severity in Glaucoma. EMBC 2020: 1746-1749
+Shengyang He, Guanghui Ren, Longwen Wu, Zhe Sun, Yaqin Zhao: Flicker Mitigation and Dimming Control Analyze of Duty Cycle Fixed-MVPM for Indoor VLC System. ICNC 2020: 6-9
+Yan Sun, Lihua Yin, Zhe Sun, Zhihong Tian, Xiaojiang Du: An IoT data sharing privacy preserving scheme. INFOCOM Workshops 2020: 984-990
+Mengting Liu, Ben A. Duffy, Zhe Sun, Arthur W. Toga, A. James Barkovich, Duan Xu, Hosung Kim: Deep Learning of Cortical Surface Features Using Graph-Convolution Predicts Neonatal Brain Age and Neurodevelopmental Outcome. ISBI 2020: 1335-1338
+Brian D. Leahy, Won-Dong Jang, Helen Y. Yang, Robbert Struyven, Donglai Wei, Zhe Sun, Kylie R. Lee, Charlotte Royston, Liz Cam, Yael Kalma, Foad Azem, Dalit Ben-Yosef, Hanspeter Pfister, Daniel Needleman: Automated Measurements of Key Morphological Features of Human Embryos for IVF. MICCAI (5) 2020: 25-35
+Zhe Sun, Zihao Huang, Feng Duan, Yu Liu: A novel multimodal approach for hybrid brain-computer interface. CoRR abs/2004.12081 (2020)
+Brian D. Leahy, Won-Dong Jang, Helen Y. Yang, Robbert Struyven, Donglai Wei, Zhe Sun, Kylie R. Lee, Charlotte Royston, Liz Cam, Yael Kalma, Foad Azem, Dalit Ben-Yosef, Hanspeter Pfister, Daniel Needleman: Automated Measurements of Key Morphological Features of Human Embryos for IVF. CoRR abs/2006.00067 (2020)
+Yao Zhang, Xu Zhang, Jun Wang, Hongru Liang, Wenqiang Lei, Zhe Sun, Adam Jatowt, Zhenglu Yang: Generalized Relation Learning with Semantic Correlation Awareness for Link Prediction. CoRR abs/2012.11957 (2020)
+Zhiwen Zhang, Feng Duan, Jordi Solé-Casals, Josep Dinarès-Ferran, Andrzej Cichocki, Zhenglu Yang, Zhe Sun: A Novel Deep Learning Approach With Data Augmentation to Classify Motor Imagery Signals. IEEE Access 7: 15945-15954 (2019)
+Zhe Sun, Zheng-ping Hu, Mengyao Zhao: Automatically Query Active Features Based on Pixel-Level for Facial Expression Recognition. IEEE Access 7: 104630-104641 (2019)
+Nan Li, Xiaoguang Zhang, Chunlong Zhang, Huiwen Guo, Zhe Sun, Xinyu Wu: Real-Time Crop Recognition in Transplanted Fields With Prominent Weed Growth: A Visual-Attention-Based Approach. IEEE Access 7: 185310-185321 (2019)
+Zhe Sun, Zheng-ping Hu, Meng Wang, Shuhuan Zhao: Dictionary learning feature space via sparse representation classification for facial expression recognition. Artif. Intell. Rev. 51(1): 1-18 (2019)
+Shangkun Deng, Chenguang Wang, Mingyue Wang, Zhe Sun: A gradient boosting decision tree approach for insider trading identification: An empirical model evaluation of China stock market. Appl. Soft Comput. 83 (2019)
+Zhe Sun, Jinchuan Zheng, Zhihong Man, Hai Wang, Ke Shao, Defeng He: Adaptive fuzzy sliding mode control design for vehicle steer-by-wire systems. J. Intell. Fuzzy Syst. 37(5): 6601-6612 (2019)
+Zhaosong Lu, Zirui Zhou, Zhe Sun: Enhanced proximal DC algorithms with extrapolation for a class of structured nonsmooth DC minimization. Math. Program. 176(1-2): 369-401 (2019)
+Xunshi Yan, Zhe Sun, Jingjing Zhao, Zhengang Shi, Chen-An Zhang: Fault Diagnosis of Active Magnetic Bearing-Rotor System via Vibration Images. Sensors 19(2): 244 (2019)
+Luzhen Ge, Zhilun Yang, Zhe Sun, Gan Zhang, Ming Zhang, Kaifei Zhang, Chunlong Zhang, Yuzhi Tan, Wei Li: A Method for Broccoli Seedling Recognition in Natural Environment Based on Binocular Stereo Vision and Gaussian Mixture Model. Sensors 19(5): 1132 (2019)
+Liang Shi, Feng Duan, Yikang Yang, Zhe Sun: The Effect of Treadmill Walking on Gait and Upper Trunk through Linear and Nonlinear Analysis Methods. Sensors 19(9): 2204 (2019)
+Sihui Luo, Lizhi Xiao, Xin Li, Huabing Liu, Guangzhi Liao, Zhengduo Wang, Wei Liu, Zhe Sun: Design of an Innovative Downhole NMR Scanning Probe. IEEE Trans. Geosci. Remote. Sens. 57(5): 2939-2946 (2019)
+Zhe Sun, Shaoliang Peng, Yaning Yang, Xiaoqi Wang, Fei Li: A General Fine-tuned Transfer Learning Model for Predicting Clinical Task Acrossing Diverse EHRs Datasets. BIBM 2019: 490-495
+Shuang He, Yanhong Jia, Zhe Sun, Chenxin Yu, Xin Yi, Yuanchun Shi, Yingqing Xu: AR Assistive System in Domestic Environment Using HMDs: Comparing Visual and Aural Instructions. HCI (9) 2019: 71-83
+Songle Chen, Xuejian Zhao, Zhe Sun, Feng Xiang, Zhixin Sun: Shape Recognition with Recurrent Neural Network. ICAIS (3) 2019: 341-350
+Fenghua Li, Zhe Sun, Ben Niu, Jin Cao, Hui Li: An Extended Control Framework for Privacy-Preserving Photo Sharing across Different Social Networks. ICNC 2019: 390-394
+Xiaozhou Zhou, Zhe Sun, Chengqi Xue, Yun Lin, Jing Zhang: Mobile AR Tourist Attraction Guide System Design Based on Image Recognition and User Behavior. IHSI 2019: 858-863
+Fenghua Li, Zhe Sun, Ang Li, Ben Niu, Hui Li, Guohong Cao: HideMe: Privacy-Preserving Photo Sharing on Social Networks. INFOCOM 2019: 154-162
+Zhe Sun, Ji Won Seo, Jee Yeon Lee, Min Young Kwak, Yehree Kim, Je Yeon Lee, Arthur W. Toga, Hong Ju Park, Hosung Kim: Random Forest Regression Combined with MRI Brain Morphometry Predicts Surgical Outcome of Cochlear Implantation. ISBI 2019: 360-363
+Pingbo Tang, Yanyu Wang, Zhe Sun, Yongming Liu: Data-driven Spatiotemporal Simulation of Ground Movements of Aircraft for Preventive Airport Safety. WSC 2019: 2992-3000
+Yu Zhang, Li Yu, Qi-Ping Su, Zhe Sun, Fuqun Wang, Xiao-Qiang Xu, Qingjun Xu, Jin-Shuang Jin, Kefei Chen, Chui-Ping Yang: A framework for quantum homomorphic encryption with experimental demonstration. CoRR abs/1910.03500 (2019)
+Peiying Tao, Zhe Sun, Zhixin Sun: An Improved Intrusion Detection Algorithm Based on GA and SVM. IEEE Access 6: 13624-13631 (2018)
+Huijun Peng, Zhe Sun, Xuejian Zhao, Shuhua Tan, Zhixin Sun: A Detection Method for Anomaly Flow in Software Defined Network. IEEE Access 6: 27809-27817 (2018)
+Zhe Sun, Yunrui Bi, Xuejian Zhao, Zhixin Sun, Chun Ying, Shuhua Tan: Type-2 Fuzzy Sliding Mode Anti-Swing Controller Design and Optimization for Overhead Crane. IEEE Access 6: 51931-51938 (2018)
+Zhe Sun, Xuejian Zhao, Zhixin Sun, Feng Xiang, Chunjing Mao: Optimal Sliding Mode Controller Design Based on Dynamic Differential Evolutionary Algorithm for Under-Actuated Crane Systems. IEEE Access 6: 67469-67476 (2018)
+Zhe Sun, Ting Wang, Ke Deng, Xiao-Feng Wang, Robert Lafyatis, Ying Ding, Ming Hu, Wei Chen: DIMM-SC: a Dirichlet mixture model for clustering droplet-based single cell transcriptomic data. Bioinform. 34(1): 139-146 (2018)
+Yuzhu Han, Wenjie Gao, Zhe Sun, Haixia Li: Upper and lower bounds of blow-up time to a parabolic type Kirchhoff equation with arbitrary initial energy. Comput. Math. Appl. 76(10): 2477-2483 (2018)
+Zhe Sun, Jinchuan Zheng, Zhihong Man, Hai Wang, Renquan Lu: Sliding mode-based active disturbance rejection control for vehicle steer-by-wire systems. IET Cyper-Phys. Syst.: Theory & Appl. 3(1): 1-10 (2018)
+Meng Wang, Zheng-ping Hu, Shuhuan Zhao, Zhe Sun, Mei Sun: Cost Sensitive Face Security Verification Based on Limited Expression-Pose Pattern Sparse Representation Model. Int. J. Artif. Intell. Tools 27(2): 1850004:1-1850004:16 (2018)
+Zhe Sun, Raymond Chiong, Zheng-ping Hu: An extended dictionary representation approach with deep subspace learning for facial expression recognition. Neurocomputing 316: 1-9 (2018)
+Zhe Sun, Zheng-ping Hu, Raymond Chiong, Meng Wang, Wei He: Combining the Kernel Collaboration Representation and Deep Subspace Learning for Facial Expression Recognition. J. Circuits Syst. Comput. 27(8): 1850121:1-1850121:16 (2018)
+Yunrui Bi, Zhe Sun, Xiaobo Lu, Zhixin Sun, Di Liu, Kun Liu: Adaptive type-2 fuzzy traffic signal control with on-line optimization. J. Intell. Fuzzy Syst. 35(2): 1889-1904 (2018)
+Zheng-ping Hu, Zhenbin Zhang, Zhe Sun, Shuhuan Zhao: Saliency detection based on salient edges and remarkable discriminating for superpixel pairs. Multim. Tools Appl. 77(5): 5949-5968 (2018)
+Zhe Sun, Zheng-ping Hu, Meng Wang: Influenced factors reduction for robust facial expression recognition. Multim. Tools Appl. 77(13): 16947-16963 (2018)
+Jinpeng Yu, Yan Zhou, Ni Mo, Zhe Sun, Lei Zhao: Theoretical and Experimental Analysis on the Influence of Rotor Non-Mechanical Errors of the Inductive Transducer in Active Magnetic Bearings. Sensors 18(12): 4376 (2018)
+Zhe Sun, Zheng-ping Hu, Raymond Chiong, Meng Wang, Shuhuan Zhao: An adaptive weighted fusion model with two subspaces for facial expression recognition. Signal Image Video Process. 12(5): 835-843 (2018)
+Meng Wang, Zheng-ping Hu, Zhe Sun, Shuhuan Zhao: Kernel collaboration representation-based manifold regularized model for unconstrained face recognition. Signal Image Video Process. 12(5): 925-932 (2018)
+Yunrui Bi, Xiaobo Lu, Zhe Sun, Dipti Srinivasan, Zhixin Sun: Optimal Type-2 Fuzzy System For Arterial Traffic Signal Control. IEEE Trans. Intell. Transp. Syst. 19(9): 3009-3027 (2018)
+Hai Wang, Zhenghao Li, Xiao-Zheng Jin, Yunzhi Huang, Huifang Kong, Ming Yu, Zhaowu Ping, Zhe Sun: Adaptive Integral Terminal Sliding Mode Control for Automobile Electronic Throttle via an Uncertainty Observer and Experimental Validation. IEEE Trans. Veh. Technol. 67(9): 8129-8143 (2018)
+Hongru Liang, Haozheng Wang, Jun Wang, Shaodi You, Zhe Sun, Jin-Mao Wei, Zhenglu Yang: JTAV: Jointly Learning Social Media Content Representation by Fusing Textual, Acoustic, and Visual Features. COLING 2018: 1269-1280
+Jingjing Xu, Chun Ying, Shuhua Tan, Zhe Sun, Pan Wang, Zhixin Sun: An Attribute-Based Searchable Encryption Scheme Supporting Trapdoor Updating. DASC/PiCom/DataCom/CyberSciTech 2018: 7-14
+Peiying Tao, Chun Ying, Zhe Sun, Shuhua Tan, Pan Wang, Zhixin Sun: The Controller Placement of Software-Defined Networks Based on Minimum Delay and Load Balancing. DASC/PiCom/DataCom/CyberSciTech 2018: 310-313
+Zhe Sun, Ying Shi, Wen Xiong, Pingbo Tang: Knowledge-based Registration for Reliable Correlated Change Detection on High-pier Curved Continuous Rigid Frame Bridge. EG-ICE 2018
+Hongru Liang, Qian Li, Haozheng Wang, Hang Li, Jun Wang, Zhe Sun, Jin-Mao Wei, Zhenglu Yang: HAVAE: Learning Prosodic-Enhanced Representations of Rap Lyrics. PRICAI (1) 2018: 1-15
+Hongru Liang, Haozheng Wang, Jun Wang, Shaodi You, Zhe Sun, Jin-Mao Wei, Zhenglu Yang: JTAV: Jointly Learning Social Media Content Representation by Fusing Textual, Acoustic, and Visual Features. CoRR abs/1806.01483 (2018)
+Zhe Sun, Zhengping Hu, Meng Wang, Shuhuan Zhao: Adaptive joint block-weighted collaborative representation for facial expression recognition. Turkish J. Electr. Eng. Comput. Sci. 25: 3699-3712 (2017)
+Meng Wang, Zhengping Hu, Zhe Sun, Mei Zhu, Mei Sun: Sample group and misplaced atom dictionary learning for face recognition. Turkish J. Electr. Eng. Comput. Sci. 25: 4421-4430 (2017)
+Zheng-ping Hu, Zhenbin Zhang, Zhe Sun, Shuhuan Zhao: Salient object detection via sparse representation and multi-layer contour zooming. IET Comput. Vis. 11(4): 309-318 (2017)
+Zhe Sun, Zheng-ping Hu, Meng Wang, Shuhuan Zhao: Discriminative feature learning-based pixel difference representation for facial expression recognition. IET Comput. Vis. 11(8): 675-682 (2017)
+Zhe Sun, Zheng-ping Hu, Meng Wang, Fan Bai, Bo Sun: Robust Facial Expression Recognition with Low-Rank Sparse Error Dictionary Based Probabilistic Collaborative Representation Classification. Int. J. Artif. Intell. Tools 26(4): 1750017:1-1750017:18 (2017)
+Meng Wang, Zheng-ping Hu, Zhe Sun, Shuhuan Zhao, Mei Sun: Varying face occlusion detection and iterative recovery for face recognition. J. Electronic Imaging 26(3): 33009 (2017)
+Zheng-ping Hu, Ronglu Xie, Meng Wang, Zhe Sun: Midlevel cues mean shift visual tracking algorithm based on target-background saliency confidence map. Multim. Tools Appl. 76(20): 21265-21280 (2017)
+Zhe Sun, Zheng-ping Hu, Meng Wang, Shuhuan Zhao: Individual-free representation-based classification for facial expression recognition. Signal Image Video Process. 11(4): 597-604 (2017)
+Cheng Zhang, Zhe Sun, Pingbo Tang, Shawn W. St. Germain, Ronald Laurids Boring: Simulation-Based Optimization of Resilient Communication Protocol for Nuclear Power Plant Outages. AHFE (5) 2017: 20-29
+Zhe Sun, Yong Zhang, Qutong Chang: A dense correspondences matching algorithm with hierarchical pyramid architecture. CISP-BMEI 2017: 1-6
+Yuhua Xu, Zhe Sun, Zhixin Sun: SDN-based Architecture for Big Data Network. CyberC 2017: 513-516
+Zhe Sun, Zhixin Sun, Xuejian Zhao, Long Jin, Wei Zhang: Application of Adaptive Genetic Algorithm for Multimodal Transportation Logistics Distribution Routing Problem. DASC/PiCom/DataCom/CyberSciTech 2017: 75-80
+Fenghua Li, Jingyang Yu, Lingcui Zhang, Zhe Sun, Mengfan Lv: A Privacy-Preserving Method for Photo Sharing in Instant Message Systems. ICCSP 2017: 38-43
+Zhaoyang Yan, Jianxia Pang, Zhe Sun, Lijun Yang, Jianxia Li, Shushan Zhu: A new de-re-coupling SPWPM modulation strategy of current source high frequency link matrix inverter. IECON 2017: 7309-7313
+Zhaoyang Yan, Jianxia Pang, Zhe Sun, Jianxia Li, Lijun Yang, Wei Zhang: A new de-re-coupling SPWPM modulation strategy of voltage source high frequency link matrix inverter. IECON 2017: 7314-7319
+Zhaoyang Yan, Zhe Sun, Jianxia Pang, Chenyang Liang, Jianxia Li, Lijun Yang: Research on single phase Z source high frequency link matrix inverter and modulation strategy. IECON 2017: 7348-7353
+Penghang Yin, Zhe Sun, Wenlong Jin, Jack Xin: Link Flow Correction For Inconsistent Traffic Flow Data Via 𝓁1-Minimization. CoRR abs/1704.02052 (2017)
+Zheng-ping Hu, Zhenbin Zhang, Zhe Sun, Shuhuan Zhao: Saliency Detection based on Global Color Distribution and Active Contour Analysis. KSII Trans. Internet Inf. Syst. 10(12): 5507-5528 (2016)
+Lei Wu, Zhe Sun, Dong-Hui Li: A Barzilai-Borwein-Like Iterative Half Thresholding Algorithm for the L1/2 Regularized Problem. J. Sci. Comput. 67(2): 581-601 (2016)
+Zheng-ping Hu, Fan Bai, Shuhuan Zhao, Meng Wang, Zhe Sun: Extended common molecular and discriminative atom dictionary based sparse representation for face recognition. J. Vis. Commun. Image Represent. 40: 42-50 (2016)
+Ting Wang, Zhao Ren, Ying Ding, Zhou Fang, Zhe Sun, Matthew L. MacDonald, Robert A. Sweet, Jieru Wang, Wei Chen: FastGGM: An Efficient Algorithm for the Inference of Gaussian Graphical Model in Biological Networks. PLoS Comput. Biol. 12(2) (2016)
+Zhe Sun, Jinchuan Zheng, Zhihong Man, Hai Wang: Robust Control of a Vehicle Steer-by-Wire System Using Adaptive Sliding Mode. IEEE Trans. Ind. Electron. 63(4): 2251-2262 (2016)
+Zhe Sun, He Jin, Jianming Yong, Salim Al-Ismaili, Changyin Li, Jun Shen: A High Availability Application Service Platform for nuclear power enterprises. CSCWD 2016: 613-618
+Zhe Sun, Zhe Liu, Xiaoqi Yang: On power penalty methods for linear complementarity problems arising from American option pricing. J. Glob. Optim. 63(1): 165-180 (2015)
+Zhe Sun: Technology innovation and entrepreneurial state: the development of China's high-speed rail industry. Technol. Anal. Strateg. Manag. 27(6): 646-659 (2015)
+Dong-Hui Li, Lei Wu, Zhe Sun, Xiongji Zhang: A constrained optimization reformulation and a feasible descent direction method for L1/2 regularization. Comput. Optim. Appl. 59(1-2): 263-284 (2014)
+Yunrui Bi, Dipti Srinivasan, Xiaobo Lu, Zhe Sun, Weili Zeng: Type-2 fuzzy multi-intersection traffic signal control with differential evolution optimization. Expert Syst. Appl. 41(16): 7338-7349 (2014)
+Zhe Sun, Marco A. Wiering, Nicolai Petkov: Classification system for mortgage arrear management. CIFEr 2014: 489-496
+Zhe Sun, Fei Peng, Pierre Magne, Ali Emadi: A phase shifted full bridge converter with ZCS synchronous rectifier for auxiliary power units. IECON 2014: 2945-2951
+Zhe Sun, Jun Shen, Jianming Yong: A novel approach to data deduplication over the engineering-oriented cloud systems. Integr. Comput. Aided Eng. 20(1): 45-57 (2013)
+Zhe Sun, Jun Shen: A high performance peer to cloud and peer model augmented with hierarchical secure communications. J. Syst. Softw. 86(7): 1790-1796 (2013)
+Chu-Hui Fan, Heng-Na Xiong, Yixiao Huang, Zhe Sun: Quqntum discord and quantum phase transition in spin-1/2 frustrated Heisenberg chain. Quantum Inf. Comput. 13(5-6): 452-468 (2013)
+Yunrui Bi, Dipti Srinivasan, Xiaobo Lu, Zhe Sun: Single intersection signal control based on Type-2 fuzzy logic. CIVTS 2013: 25-31
+Zhe Sun, Weijia Han, Zan Li, Yan Zhang, Meilu Lin: Spectrum sensing method without the impact of noise uncertainty. GlobalSIP 2013: 1166-1169
+Kishino Takahisa, Zhe Sun, Ruggero Micheletto: A Fast and Precise HOG-Adaboost Based Visual Support System Capable to Recognize Pedestrian and Estimate Their Distance. ICIAP Workshops 2013: 20-29
+Lei Wu, Zhe Sun: New Nonsmooth Equations-Based Algorithms for ℓ1-Norm Minimization and Applications. J. Appl. Math. 2012: 139609:1-139609:14 (2012)
+Lei Wu, Zhe Sun, Jinping Zeng: A damped semismooth Newton iterative method for solving mixed linear complementarity problems. Optim. Methods Softw. 27(6): 951-967 (2012)
+Yunrui Bi, Xiaobo Lu, Zhe Sun: The route choice problem based on interval type-2 fuzzy logic inference. FSKD 2012: 477-481
+Zhe Sun, Baopu Li, Ran Zhou, Huimin Zheng, Max Q.-H. Meng: Removal of non-informative frames for wireless capsule endoscopy video segmentation. ICAL 2012: 294-299
+Ran Zhou, Baopu Li, Zhe Sun, Chao Hu, Max Q.-H. Meng: Wireless capsule endoscopy video automatic segmentation. ROBIO 2012: 825-830
+Hongru Xu, Zhe Sun, Shuilian Xie: An iterative algorithm for solving a kind of discrete HJB equation with M-functions. Appl. Math. Lett. 24(3): 279-282 (2011)
+Zhe Sun, Jinping Zeng: A monotone semismooth Newton type method for a class of complementarity problems. J. Comput. Appl. Math. 235(5): 1261-1274 (2011)
+Jinping Zeng, Zhe Sun, Hongru Xu: Semismooth Newton and Newton iterative methods for HJB equation. J. Comput. Appl. Math. 235(13): 3859-3869 (2011)
+Zhe Sun, Jinping Zeng, Hongru Xu: Generalized Newton-iterative method for semismooth equations. Numer. Algorithms 58(3): 333-349 (2011)
+Zhe Sun, Jinping Zeng: A damped semismooth Newton method for mixed linear complementarity problems. Optim. Methods Softw. 26(2): 187-205 (2011)
+Zhe Sun, Jun Shen, Jianming Yong: DeDu: Building a deduplication storage system over cloud computing. CSCWD 2011: 348-355
+Zhe Sun, Zengke Zhang, Huangang Wang: Manifold regularization based semisupervised semiparametric regression. Neurocomputing 73(10-12): 2203-2216 (2010)
+Hongru Xu, Jinping Zeng, Zhe Sun: Two-level additive Schwarz algorithms for nonlinear complementarity problem with an M-function. Numer. Linear Algebra Appl. 17(4): 599-613 (2010)
+Xiao-Ming Lu, Zhengjun Xi, Zhe Sun, Xiaoguang Wang: Geometric measure of quantum discord under decoherence. Quantum Inf. Comput. 10(11&12): 994-1003 (2010)
+Zhe Sun, Zengke Zhang, Huangang Wang, Min Jiang: Cutting plane method for continuously constrained kernel-based regression. IEEE Trans. Neural Networks 21(2): 238-247 (2010)
+Zhe Sun, Shiwu Zhang, Lei Wang: Chosen IV algebraic attack on One.Fivium. ISKE 2008: 1427-1431

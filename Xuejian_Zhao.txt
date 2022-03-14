@@ -1,0 +1,21 @@
+Ting Jiang, Maozhong Song, Xuejian Zhao, Xu Liu: Channel Estimation for Millimeter Wave Massive MIMO Systems Using Separable Compressive Sensing. IEEE Access 9: 49738-49749 (2021)
+Jiaye Pan, Yi Zhuang, Xuejian Zhao, Binglin Sun: Lightweight and Efficient Hypervisor-Based Dynamic Binary Instrumentation and Analysis Method. IEEE Access 8: 164593-164610 (2020)
+Xuejian Zhao, Xiaoxiao Xiong, Zhe Sun, Xinhui Zhang, Zhixin Sun: An immune clone selection based power control strategy for alleviating energy hole problems in wireless sensor networks. J. Ambient Intell. Humaniz. Comput. 11(6): 2505-2518 (2020)
+Songle Chen, Xuejian Zhao, Bingqing Luo, Zhixin Sun: Visual Browse and Exploration in Motion Capture Data with Phylogenetic Tree of Context-Aware Poses. Sensors 20(18): 5224 (2020)
+Songle Chen, Xuejian Zhao, Zhe Sun, Feng Xiang, Zhixin Sun: Shape Recognition with Recurrent Neural Network. ICAIS (3) 2019: 341-350
+Xuejian Zhao, Xinhui Zhang, Feng Xiang, Feng Ye, Zhixin Sun: A GA-Optimized Weighted Mixed Kernel Function of SVM Based on Information Entropy. ICAIS (2) 2019: 391-405
+Xuejian Zhao, Xinhui Zhang, Zhixin Sun, Pan Wang: New Wireless Sensor Network Localization Algorithm for Outdoor Adventure. IEEE Access 6: 13191-13199 (2018)
+Huijun Peng, Zhe Sun, Xuejian Zhao, Shuhua Tan, Zhixin Sun: A Detection Method for Anomaly Flow in Software Defined Network. IEEE Access 6: 27809-27817 (2018)
+Xuejian Zhao, Xinhui Zhang, Pan Wang, Songle Chen, Zhixin Sun: A Weighted Frequent Itemset Mining Algorithm for Intelligent Decision in Smart Systems. IEEE Access 6: 29271-29282 (2018)
+Ting Jiang, Maozhong Song, Xuejian Zhao, Xu Liu: A Codebook-Adaptive Feedback Algorithm for Cellular-Based Positioning. IEEE Access 6: 32109-32116 (2018)
+Dongming Li, Zhixin Sun, Xuejian Zhao: Cognitive Radio-Based Smart Grids: From the Perspective of Full-Duplex Primary Users. IEEE Access 6: 33088-33098 (2018)
+Dongming Li, Dengyin Zhang, Xuejian Zhao: A Novel Full-Duplex Primary Signal Extraction Method Based on Polarization Vector Distance in Cognitive Radio Networks. IEEE Access 6: 44981-44991 (2018)
+Zhe Sun, Yunrui Bi, Xuejian Zhao, Zhixin Sun, Chun Ying, Shuhua Tan: Type-2 Fuzzy Sliding Mode Anti-Swing Controller Design and Optimization for Overhead Crane. IEEE Access 6: 51931-51938 (2018)
+Zhe Sun, Xuejian Zhao, Zhixin Sun, Feng Xiang, Chunjing Mao: Optimal Sliding Mode Controller Design Based on Dynamic Differential Evolutionary Algorithm for Under-Actuated Crane Systems. IEEE Access 6: 67469-67476 (2018)
+Yu Xue, Weiwei Jia, Xuejian Zhao, Wei Pang: An Evolutionary Computation Based Feature Selection Method for Intrusion Detection. Secur. Commun. Networks 2018: 2492956:1-2492956:10 (2018)
+Siguang Chen, Xi Zhu, Xuejian Zhao, Haijun Zhang, Kun Wang, Geng Yang: Fog Computing Assisted Efficient Privacy Preserving Data Collection for Big Sensory Data. GLOBECOM 2018: 1-6
+Wenhui Zhu, Xu Liu, Xiaorong Zhu, Ting Jiang, Xuejian Zhao: Joint Optimization of Heterogeneous Cellular and Backhaul Networks for Services Awareness in SDN. ICCC 2018: 353-357
+Xuejian Zhao, Siguang Chen, Jing Guo, Han Hu, Zhixin Sun: Concurrent transmission mechanism to mitigate pan-exposed-node problems in wireless sensor networks. Int. J. Distributed Sens. Networks 13(3) (2017)
+Zhe Sun, Zhixin Sun, Xuejian Zhao, Long Jin, Wei Zhang: Application of Adaptive Genetic Algorithm for Multimodal Transportation Logistics Distribution Routing Problem. DASC/PiCom/DataCom/CyberSciTech 2017: 75-80
+Xuejian Zhao, Kui Zhao, Feng Ha: An Algorithm of Parking Planning for Smart Parking System. CoRR abs/1708.07932 (2017)
+Siguang Chen, Jincheng Liu, Kun Wang, Zhixin Sun, Xuejian Zhao: Data Sorting-based Adaptive Spatial Compression in Wireless Sensor Networks. KSII Trans. Internet Inf. Syst. 10(8): 3641-3655 (2016)

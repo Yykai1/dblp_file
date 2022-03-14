@@ -1,0 +1,115 @@
+Hanshu Hong, Zhixin Sun: TS-ABOS-CMS: time-bounded secure attribute-based online/offline signature with constant message size for IoT systems. J. Syst. Archit. 123: 102388 (2022)
+Wenbing Zhao, Chunming Rong, Jun Wu, Zhixin Sun, Srinivas Sampalli: IEEE Access Special Section Editorial: Blockchain Technology: Principles and Applications. IEEE Access 9: 110006-110010 (2021)
+Bing Hu, Zhixin Sun, Jian Liu: Distributed time synchronization algorithm based on sequential belief propagation in wireless sensor networks. Comput. Commun. 176: 119-127 (2021)
+Jing Gong, Yurong Mei, Feng Xiang, Hanshu Hong, Yibo Sun, Zhixin Sun: A data privacy protection scheme for Internet of things based on blockchain. Trans. Emerg. Telecommun. Technol. 32(5) (2021)
+Zhe Sun, Yawen Ling, Xin Tan, Yang Zhou, Zhixin Sun: Designing and application of type-2 fuzzy PID control for overhead crane systems. Int. J. Intell. Robotics Appl. 5(1): 10-22 (2021)
+Bingqing Luo, Yudong Yao, Zhixin Sun: Performance Analysis Models of BLE Neighbor Discovery: A Survey. IEEE Internet Things J. 8(11): 8734-8746 (2021)
+Hanshu Hong, Zhixin Sun: A flexible attribute based data access management scheme for sensor-cloud system. J. Syst. Archit. 119: 102234 (2021)
+Hanshu Hong, Ximeng Liu, Zhixin Sun: A Fine-Grained Attribute Based Data Retrieval with Proxy Re-Encryption Scheme for Data Outsourcing Systems. Mob. Networks Appl. 26(6): 2509-2514 (2021)
+Hanshu Hong, Zhixin Sun: A secure peer to peer multiparty transaction scheme based on blockchain. Peer-to-Peer Netw. Appl. 14(3): 1106-1117 (2021)
+Yuhua Xu, Yunfeng Yu, Hanshu Hong, Zhixin Sun: DDoS Detection Using a Cloud-Edge Collaboration Method Based on Entropy-Measuring SOM and KD-Tree in SDN. Secur. Commun. Networks 2021: 5594468:1-5594468:16 (2021)
+Zhixin Sun, Xian Zhong, Shuqin Chen, Wenxuan Liu, Duxiu Feng, Lin Li: Modeling Context-Guided Visual and Linguistic Semantic Feature for Video Captioning. ICANN (5) 2021: 677-689
+Zhixin Sun, Xian Zhong, Shuqin Chen, Lin Li, Luo Zhong: Visual-aware Attention Dual-stream Decoder for Video Captioning. CoRR abs/2110.08578 (2021)
+Xiaofang Li, Furu Lv, Feng Xiang, Zhe Sun, Zhixin Sun: Research on Key Technologies of Logistics Information Traceability Model Based on Consortium Chain. IEEE Access 8: 69754-69762 (2020)
+Xiaofang Li, Yurong Mei, Jing Gong, Feng Xiang, Zhixin Sun: A Blockchain Privacy Protection Scheme Based on Ring Signature. IEEE Access 8: 76765-76772 (2020)
+Bing Hu, Zhixin Sun, Hanshu Hong, Jian Liu: UAV-aided networks with optimization allocation via artificial bee colony with intellective search. EURASIP J. Wirel. Commun. Netw. 2020(1): 40 (2020)
+Zhe Sun, Yawen Ling, Hongbo Qu, Feng Xiang, Zhixin Sun, Fan Wu: An Adaptive DE Algorithm Based Fuzzy Logic Anti-swing Controller for Overhead Crane Systems. Int. J. Fuzzy Syst. 22(6): 1905-1921 (2020)
+Liang Yu, Weiwei Xie, Di Xie, Yulong Zou, Dengyin Zhang, Zhixin Sun, Linghua Zhang, Yue Zhang, Tao Jiang: Deep Reinforcement Learning for Smart Home Energy Management. IEEE Internet Things J. 7(4): 2751-2762 (2020)
+Xuejian Zhao, Xiaoxiao Xiong, Zhe Sun, Xinhui Zhang, Zhixin Sun: An immune clone selection based power control strategy for alleviating energy hole problems in wireless sensor networks. J. Ambient Intell. Humaniz. Comput. 11(6): 2505-2518 (2020)
+Songle Chen, Xuejian Zhao, Bingqing Luo, Zhixin Sun: Visual Browse and Exploration in Motion Capture Data with Phylogenetic Tree of Context-Aware Poses. Sensors 20(18): 5224 (2020)
+Bingqing Luo, Jia Xu, Zhixin Sun: Neighbor discovery latency in bluetooth low energy networks. Wirel. Networks 26(3): 1773-1780 (2020)
+Pan Wang, Xuejiao Chen, Feng Ye, Zhixin Sun: A Survey of Techniques for Mobile Service Encrypted Traffic Classification Using Deep Learning. IEEE Access 7: 54024-54033 (2019)
+Bingqing Luo, Feng Xiang, Zhixin Sun, Yudong Yao: BLE Neighbor Discovery Parameter Configuration for IoT Applications. IEEE Access 7: 54097-54105 (2019)
+Yunhao Xia, Chun Ying, Guofeng Lin, Zhixin Sun: A Third-Party Mobile Payment Scheme Based on NTRU Against Quantum Attacks. IEEE Access 7: 56070-56080 (2019)
+Yuhua Xu, Houtao Sun, Feng Xiang, Zhixin Sun: Efficient DDoS Detection Based on K-FKNN in Software Defined Networks. IEEE Access 7: 160536-160545 (2019)
+Xiaoyong Yan, Lijuan Sun, Zhixin Sun, Jian Zhou, Aiguo Song: Improved hop-based localisation algorithm for irregular networks. IET Commun. 13(5): 520-527 (2019)
+Hanshu Hong, Bing Hu, Zhixin Sun: Toward secure and accountable data transmission in Narrow Band Internet of Things based on blockchain. Int. J. Distributed Sens. Networks 15(4) (2019)
+Guofeng Lin, Yunhao Xia, Chun Ying, Zhixin Sun: F2P-ABS: A Fast and Secure Attribute-Based Signature for Mobile Platforms. Secur. Commun. Networks 2019: 5380710:1-5380710:12 (2019)
+Bingqing Luo, Jincheng Gao, Zhixin Sun: Energy Modeling of Neighbor Discovery in Bluetooth Low Energy Networks. Sensors 19(22): 4997 (2019)
+Songle Chen, Lintao Zheng, Yan Zhang, Zhixin Sun, Kai Xu: VERAM: View-Enhanced Recurrent Attention Model for 3D Shape Classification. IEEE Trans. Vis. Comput. Graph. 25(12): 3244-3257 (2019)
+Yuhua Xu, Zhixin Sun: Achieving Data Security, Access Control and Authentication of Controllers in Hierarchical Software Defined Networking with Attribute Based Encryption. CSS (1) 2019: 203-213
+Chenlei Liu, Wenhan Tao, Chencong Zhao, Xinwan Li, Yaning Su, Zhixin Sun: Research on Vehicle Routing Problem with time Windows Based on the Dragonfly Algorithm. DASC/PiCom/DataCom/CyberSciTech 2019: 142-148
+Chenlei Liu, Feng Xiang, Pan Wang, Zhixin Sun: A Review of Issues and Challenges in Fog Computing Environment. DASC/PiCom/DataCom/CyberSciTech 2019: 232-237
+Rong Li, Feng Xiang, Fan Wu, Zhixin Sun: A Deep Belief Networks Based Prediction Method for Identification of Disease-Associated Non-coding SNPs in Human Genome. ICAIS (2) 2019: 12-24
+Mengyi Zhang, Tianxing Wu, Qiu Ji, Guilin Qi, Zhixin Sun: Mining Hypernym-Hyponym Relations from Social Tags via Tag Embedding. ICAIS (3) 2019: 319-328
+Xiaoyong Yan, Xiang Feng, Zhixin Sun: Accurate and Fast DV-Hop Localization Algorithm in Irregular Networks. ICAIS (3) 2019: 329-340
+Songle Chen, Xuejian Zhao, Zhe Sun, Feng Xiang, Zhixin Sun: Shape Recognition with Recurrent Neural Network. ICAIS (3) 2019: 341-350
+Xuejian Zhao, Xinhui Zhang, Feng Xiang, Feng Ye, Zhixin Sun: A GA-Optimized Weighted Mixed Kernel Function of SVM Based on Information Entropy. ICAIS (2) 2019: 391-405
+Hanshu Hong, Xiaokang Zhou, Bing Hu, Zhixin Sun: A Ciphertext Policy Attribute Based Signcryption Scheme with Secure and Flexible Key Evolving. ISPA/BDCloud/SocialCom/SustainCom 2019: 413-418
+Liang Yu, Weiwei Xie, Di Xie, Yulong Zou, Dengying Zhang, Zhixin Sun, Linghua Zhang, Tao Jiang: Deep Reinforcement Learning for Smart Home Energy Management. CoRR abs/1909.10165 (2019)
+Jingjing Xu, Hanshu Hong, Guofeng Lin, Zhixin Sun: A New Inter-Domain Information Sharing Smart System Based on ABSES in SDN. IEEE Access 6: 12790-12799 (2018)
+Xuejian Zhao, Xinhui Zhang, Zhixin Sun, Pan Wang: New Wireless Sensor Network Localization Algorithm for Outdoor Adventure. IEEE Access 6: 13191-13199 (2018)
+Peiying Tao, Zhe Sun, Zhixin Sun: An Improved Intrusion Detection Algorithm Based on GA and SVM. IEEE Access 6: 13624-13631 (2018)
+Huijun Peng, Zhe Sun, Xuejian Zhao, Shuhua Tan, Zhixin Sun: A Detection Method for Anomaly Flow in Software Defined Network. IEEE Access 6: 27809-27817 (2018)
+Xuejian Zhao, Xinhui Zhang, Pan Wang, Songle Chen, Zhixin Sun: A Weighted Frequent Itemset Mining Algorithm for Intelligent Decision in Smart Systems. IEEE Access 6: 29271-29282 (2018)
+Pan Wang, Xuejiao Chen, Zhixin Sun: Performance Modeling and Suitability Assessment of Data Center Based on Fog Computing in Smart Systems. IEEE Access 6: 29587-29593 (2018)
+Pan Wang, Xuejiao Chen, Feng Ye, Zhixin Sun: A Smart Automated Signature Extraction Scheme for Mobile Phone Number in Human-Centered Smart Home Systems. IEEE Access 6: 30483-30490 (2018)
+Dongming Li, Zhixin Sun, Xuejian Zhao: Cognitive Radio-Based Smart Grids: From the Perspective of Full-Duplex Primary Users. IEEE Access 6: 33088-33098 (2018)
+Zhe Sun, Yunrui Bi, Xuejian Zhao, Zhixin Sun, Chun Ying, Shuhua Tan: Type-2 Fuzzy Sliding Mode Anti-Swing Controller Design and Optimization for Overhead Crane. IEEE Access 6: 51931-51938 (2018)
+Zhe Sun, Xuejian Zhao, Zhixin Sun, Feng Xiang, Chunjing Mao: Optimal Sliding Mode Controller Design Based on Dynamic Differential Evolutionary Algorithm for Under-Actuated Crane Systems. IEEE Access 6: 67469-67476 (2018)
+Huijun Peng, Chun Ying, Shuhua Tan, Bing Hu, Zhixin Sun: An Improved Feature Selection Algorithm Based on Ant Colony Optimization. IEEE Access 6: 69203-69209 (2018)
+Suofei Zhang, Lingzhi Xing, Lin Zhou, Zhixin Sun: Object Tracking by Incremental Structural Learning of Deformable Parts. Circuits Syst. Signal Process. 37(1): 255-276 (2018)
+Huqing Wang, Zhixin Sun: Compression Method for IPSec over 6LoWPAN. KSII Trans. Internet Inf. Syst. 12(4): 1819-1831 (2018)
+Guofeng Lin, Lirong You, Bing Hu, Hanshu Hong, Zhixin Sun: A Coordinated Ciphertext Policy Attribute-based PHR Access Control with User Accountability. KSII Trans. Internet Inf. Syst. 12(4): 1832-1853 (2018)
+Yunrui Bi, Zhe Sun, Xiaobo Lu, Zhixin Sun, Di Liu, Kun Liu: Adaptive type-2 fuzzy traffic signal control with on-line optimization. J. Intell. Fuzzy Syst. 35(2): 1889-1904 (2018)
+Hanshu Hong, Zhixin Sun: Achieving secure data access control and efficient key updating in mobile multimedia sensor networks. Multim. Tools Appl. 77(4): 4477-4490 (2018)
+Zichao Ma, Zhixin Sun: Time-varying LSTM networks for action recognition. Multim. Tools Appl. 77(24): 32275-32285 (2018)
+Yunrui Bi, Xiaobo Lu, Zhe Sun, Dipti Srinivasan, Zhixin Sun: Optimal Type-2 Fuzzy System For Arterial Traffic Signal Control. IEEE Trans. Intell. Transp. Syst. 19(9): 3009-3027 (2018)
+Hanshu Hong, Zhixin Sun: Sharing your privileges securely: a key-insulated attribute based proxy re-encryption scheme for IoT. World Wide Web 21(3): 595-607 (2018)
+Jingjing Xu, Chun Ying, Shuhua Tan, Zhe Sun, Pan Wang, Zhixin Sun: An Attribute-Based Searchable Encryption Scheme Supporting Trapdoor Updating. DASC/PiCom/DataCom/CyberSciTech 2018: 7-14
+Guofeng Lin, Chun Ying, Shuhua Tan, Yunhao Xia, Zhixin Sun: ARP-CP-ABE: Toward Efficient, Secure and Flexible Access Control for Personal Health Record Systems. DASC/PiCom/DataCom/CyberSciTech 2018: 54-61
+Peiying Tao, Chun Ying, Zhe Sun, Shuhua Tan, Pan Wang, Zhixin Sun: The Controller Placement of Software-Defined Networks Based on Minimum Delay and Load Balancing. DASC/PiCom/DataCom/CyberSciTech 2018: 310-313
+Zhixin Sun, Shun Zhang, Hongyan Li, Tingting Cui, Hao Qiu: FPGA-Based Real-time Interference Alignment Verification System. ICCC 2018: 656-660
+Songle Chen, Lintao Zheng, Yan Zhang, Zhixin Sun, Kai Xu: VERAM: View-Enhanced Recurrent Attention Model for 3D Shape Classification. CoRR abs/1808.06698 (2018)
+Guofeng Lin, Hanshu Hong, Zhixin Sun: A Collaborative Key Management Protocol in Ciphertext Policy Attribute-Based Encryption for Cloud Data Sharing. IEEE Access 5: 9464-9475 (2017)
+Hanshu Hong, Zhixin Sun: Efficient key insulated attribute based signature without bilinear pairings for mobile communications. Autom. Control. Comput. Sci. 51(3): 159-166 (2017)
+Xuejian Zhao, Siguang Chen, Jing Guo, Han Hu, Zhixin Sun: Concurrent transmission mechanism to mitigate pan-exposed-node problems in wireless sensor networks. Int. J. Distributed Sens. Networks 13(3) (2017)
+Hanshu Hong, Yunhao Xia, Zhixin Sun, Ximeng Liu: Provably secure attribute based signcryption with delegated computation and efficient key updating. KSII Trans. Internet Inf. Syst. 11(5): 2646-2659 (2017)
+Yunhao Xia, Hanshu Hong, Guofeng Lin, Zhixin Sun: A Secure and Efficient Cloud Resource Allocation Scheme with Trust Evaluation Mechanism Based on Combinatorial Double Auction. KSII Trans. Internet Inf. Syst. 11(9): 4197-4219 (2017)
+Jingjing Xu, Xinhui Zhang, Bixiao Xu, Zhixin Sun: 无线传感器网络分簇算法综述 (Survey of Clustering Algorithms for Wireless Sensor Networks). 计算机科学 44(2): 31-37 (2017)
+Zhuo Ning, Dacheng Shao, Yong Chen, Zhixin Sun: 基于签名与数据流模式挖掘的Android恶意软件检测系统 (Android Static Analysis System Based on Signature and Data Flow Pattern Mining). 计算机科学 44(Z11): 317-321 (2017)
+Hanshu Hong, Yunhao Xia, Zhixin Sun: Towards Secure Data Retrieval for Multi-Tenant Architecture Using Attribute-Based Key Word Search. Symmetry 9(6): 89 (2017)
+Hanshu Hong, Zhixin Sun: A Key-Insulated Ciphertext Policy Attribute Based Signcryption for Mobile Networks. Wirel. Pers. Commun. 95(2): 1215-1228 (2017)
+Yuhua Xu, Zhe Sun, Zhixin Sun: SDN-based Architecture for Big Data Network. CyberC 2017: 513-516
+Zhe Sun, Zhixin Sun, Xuejian Zhao, Long Jin, Wei Zhang: Application of Adaptive Genetic Algorithm for Multimodal Transportation Logistics Distribution Routing Problem. DASC/PiCom/DataCom/CyberSciTech 2017: 75-80
+Bing Hu, Zhixin Sun: P2P Traffic Identification Method Based on Traffic Statistical Characteristics. ICIC (1) 2017: 260-272
+Siguang Chen, Chuanxin Zhao, Meng Wu, Zhixin Sun, Haijun Zhang, Victor C. M. Leung: Compressive network coding for wireless sensor networks: Spatio-temporal coding and optimization design. Comput. Networks 108: 345-356 (2016)
+Suofei Zhang, Zhixin Sun, Xu Cheng, Lin Zhou: Object Tracking with Embedded Deformable Parts in Dynamic Conditional Random Fields. IEICE Trans. Inf. Syst. 99-D(4): 1268-1271 (2016)
+Bin Xu, Zhixin Sun: A fuzzy operator based bat algorithm for cloud service composition. Int. J. Wirel. Mob. Comput. 11(1): 42-46 (2016)
+Bingqing Luo, Yiai Jin, Shengmei Luo, Zhixin Sun: A Symmetric Lookup-based Secure P2P Routing Algorithm. KSII Trans. Internet Inf. Syst. 10(5): 2203-2217 (2016)
+Hanshu Hong, Zhixin Sun, Ximeng Liu: A key-insulated CP-ABE with key exposure accountability for secure data sharing in the cloud. KSII Trans. Internet Inf. Syst. 10(5): 2394-2406 (2016)
+Siguang Chen, Jincheng Liu, Kun Wang, Zhixin Sun, Xuejian Zhao: Data Sorting-based Adaptive Spatial Compression in Wireless Sensor Networks. KSII Trans. Internet Inf. Syst. 10(8): 3641-3655 (2016)
+Hanshu Hong, Zhixin Sun: An efficient and traceable KP-ABS scheme with untrusted attribute authority in cloud computing. J. Cloud Comput. 5: 2 (2016)
+Huqing Wang, Zhixin Sun: ONS安全机制研究 (Research on ONS Security). 计算机科学 43(1): 1-7 (2016)
+Zhuo Ning, Ting Hu, Zhixin Sun: 基于动态分析的Android应用程序安全研究 (Security Survey on Android Application Based on Dynamic Analysis). 计算机科学 43(Z11): 324-328 (2016)
+Liang Yu, Tao Jiang, Yulong Zou, Zhixin Sun: Joint Energy Management Strategy for Geo-Distributed Data Centers and Electric Vehicles in Smart Grid Environment. IEEE Trans. Smart Grid 7(5): 2378-2392 (2016)
+Siguang Chen, Jincheng Liu, Meng Wu, Zhixin Sun: DCT-Based Adaptive Data Compression in Wireless Sensor Networks. ICCCN 2016: 1-5
+Huiyu Miao, Bingqing Luo, Zhixin Sun: An Improved Context-Aware Recommender Algorithm. ICIC (1) 2016: 153-162
+Han Wu, Bingqing Luo, Zhixin Sun: Balanced Tree-Based Support Vector Machine for Friendly Analysis on Mobile Network. ICIC (1) 2016: 183-191
+Xue Li, Xiaolei Zhang, Zhixin Sun: Improved Collaborative Filtering Algorithm (ICF). ICIC (3) 2016: 597-606
+Ting Hu, Zhuo Ning, Zhixin Sun: A Design of the Event Trigger for Android Application. QSHINE 2016: 426-434
+Chao Meng, Jing Gong, Sanmin Liu, Zhixin Sun: Convergence analysis and application of the central force optimization algorithm. Sci. China Inf. Sci. 58(5): 1-3 (2015)
+Xue Li, Zhixin Sun: An Improved 6LoWPAN Hierarchical Routing Protocol. EAI Endorsed Trans. Cogn. Commun. 1(3): e1 (2015)
+Dongming Li, Zhixin Sun, Zhimin Zeng, Caili Guo, Xiaolin Lin: A Novel Semi-Blind Polarization Adaption Technique for Cognitive Users. IEEE Commun. Lett. 19(4): 681-684 (2015)
+Siguang Chen, Meng Wu, Kun Wang, Zhixin Sun, Weifeng Lu: Combining network coding and compressed sensing for error correction in wireless sensor networks. Int. J. Commun. Syst. 28(7): 1303-1315 (2015)
+Haiyong Wang, Geng Yang, Yiran Gu, Jian Xu, Zhixin Sun: A Novel Cooperative ARQ Method for Wireless Sensor Networks. Int. J. Distributed Sens. Networks 11: 102326:1-102326:7 (2015)
+Bing Hu, Zhixin Sun: 无线传感器网络时间同步机制研究 (Overview of Time Synchronization in Wireless Sensor Networks). 计算机科学 42(7): 1-4 (2015)
+San-Min Liu, Zhixin Sun: Active learning for P2P traffic identification. Peer-to-Peer Netw. Appl. 8(5): 733-740 (2015)
+Bingqing Luo, Suning Tang, Zhixin Sun: Research of Neighbor Discovery for IPv6 over Low-Power Wireless Personal Area Networks. EAI Endorsed Trans. Self Adapt. Syst. 1(2): e3 (2015)
+Yuhua Zhang, Kun Wang, Lei Shu, Zhixin Sun, Dong Yue: An Energy-Balanced Multi-Hop Relay Transmission Scheme Based on RVNS in DTMSN. GLOBECOM 2015: 1-5
+Siguang Chen, Chuanxin Zhao, Meng Wu, Zhixin Sun, Jian Jin: Clustered Spatio-Temporal Compression Design for Wireless Sensor Networks. ICCCN 2015: 1-6
+Bingqing Luo, Suning Tang, Zhixin Sun: Research of neighbor discovery for IPv6 over low-power wireless personal area networks. QSHINE 2015: 233-238
+Li Xue, Zhixin Sun: An improved 6LoWPAN hierarchical routing protocol. QSHINE 2015: 318-322
+Jing Gong, MeiLing Gao, Bixiao Xu, Wenjun Wang, Zhixin Sun: A hybrid recommendation algorithm based on social networks. QSHINE 2015: 329-334
+Huqing Wang, Zhixin Sun: Study on the Improvement of ELGamal Cryptosystem Based on Elliptic Curve. J. Networks 9(11): 3025-3029 (2014)
+Siguang Chen, Meng Wu, Kun Wang, Zhixin Sun: Compressive network coding for error control in wireless sensor networks. Wirel. Networks 20(8): 2605-2615 (2014)
+Jing Gong, Wenjun Wang, Pan Wang, Zhixin Sun: P2P traffic identification method based on an improvement incremental SVM learning algorithm. WPMC 2014: 174-179
+Zhixin Sun, Bingqing Luo, Yadang Chen, Kai Bu: Secure P2P topology based on a multidimensional DHT space mapping. Sci. China Inf. Sci. 56(5): 1-14 (2013)
+Suofei Zhang, Zhixin Sun, Xu Cheng, Zhenyang Wu: Tracking Deformable Parts via Dynamic Conditional Random Fields. CoRR abs/1311.0262 (2013)
+Kai Bu, Qingjun Xiao, Zhixin Sun, Bin Xiao: Toward collinearity-aware and conflict-friendly localization for wireless sensor networks. Comput. Commun. 35(13): 1549-1560 (2012)
+Zhixin Sun, Yuhua Xu, Jing Gong, Zhiguang Ren: A multicast routing algorithm based on searching in directed graph. Appl. Math. Comput. 218(7): 3723-3732 (2011)
+Zhixin Sun, Yadang Chen: Research on a Multi-layered and Multi-grouped Model for P2P Networks. GCC 2010: 246-251
+Zhixin Sun, Lin Jiao: Research of Intelligent Rule-base Based on Multilayer Intrusion Detection. J. Comput. 4(6): 453-460 (2009)
+Zhixin Sun, Kai Bu, Ke Ding: A Multidimensional Mapping Mechanism Based Secure Routing Method for DHT. Infoscale 2009: 192-205
+Kai Bu, Zhixin Sun: A Method Based on AMHI for DDoS Attacks Detection and Defense. ICYCS 2008: 1571-1576
+Jiwei Wei, Zhixin Sun: On Intelligent Agent-based Decoy Systems. Security and Management 2005: 10-16

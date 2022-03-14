@@ -1,0 +1,141 @@
+Jiansheng Tong, Zhengyuan Lin, Qian Zhou: Local stability of concrete arch bridge based on Ritz method. J. Comput. Methods Sci. Eng. 22(1): 279-294 (2022)
+Kaiyang Ding, Junfeng Yang, Zhao Wang, Kai Ni, Xiaohao Wang, Qian Zhou: Specific Windows Search for Multi-Ship and Multi-Scale Wake Detection in SAR Images. Remote. Sens. 14(1): 25 (2022)
+Qian Zhou, Omkant Pandey, Fan Ye: An Approach for Multi-Level Visibility Scoping of IoT Services in Enterprise Environments. IEEE Trans. Mob. Comput. 21(2): 408-420 (2022)
+Ligang Wu, Liang Zhang, Qian Zhou: Event-Based Control and Scheduling of a Platoon of Vehicles in VANETs. IEEE Access 9: 166223-166233 (2021)
+Chao Liu, Qian Zhou, Jingyu Lv, Yi Jiang: Sales price and service level on a dedicated online service platform: The dynamics under competing reference quality. Comput. Ind. Eng. 162: 107779 (2021)
+Wenbo Ma, Weiteng Tian, Qian Zhou, Qianqian Miao: Analysis on the Temporal and Spatial Heterogeneity of Factors Affecting Urbanization Development Based on the GTWR Model: Evidence from the Yangtze River Economic Belt. Complex. 2021: 7557346:1-7557346:11 (2021)
+Ke Liu, Yurong Qiao, Qian Zhou: Spatiotemporal Heterogeneity and Driving Force Analysis of Innovation Output in the Yangtze River Economic Zone: The Perspective of Innovation Ecosystem. Complex. 2021: 8884058:1-8884058:16 (2021)
+Chao Liu, Weidong Chen, Qian Zhou, Jing Mu: Modelling dynamic freshness-keeping effort over a finite time horizon in a two-echelon online fresh product supply chain. Eur. J. Oper. Res. 293(2): 511-528 (2021)
+Boyang Qu, Qian Zhou, Yongsheng Zhu, Jing Liang, Caitong Yue, Yuechao Jiao, Li Yan, Ponnuthurai Nagaratnam Suganthan: An improved brain storm optimisation algorithm for energy-efficient train operation problem. Int. J. Bio Inspired Comput. 17(4): 236-245 (2021)
+Jianhu Cai, Qian Zhou, Jianyue Sun, Xiaoqing Hu, Cuiying Feng, Xuejiao Li: Competition model and coordination mechanism considering strategic customer behavior under vendor-managed inventory. Int. Trans. Oper. Res. 28(5): 2782-2809 (2021)
+Changxiang Chen, Qian Zhou: Improving the effectiveness of middle school physical education classroom teaching. J. Intell. Fuzzy Syst. 40(2): 3433-3444 (2021)
+Baohui Mu, Xiang Zhao, Donghai Wu, Xinyan Wang, Jiacheng Zhao, Haoyu Wang, Qian Zhou, Xiaozheng Du, Naijing Liu: Vegetation Cover Change and Its Attribution in China from 2001 to 2018. Remote. Sens. 13(3): 496 (2021)
+Haoyang Yu, Qian Zhou, Xinghui Li, Xiaohao Wang, Xilin Wang, Kai Ni: Improving Resolution of Dual-Comb Gas Detection Using Periodic Spectrum Alignment Method. Sensors 21(3): 903 (2021)
+Haoyu Wang, Xiang Zhao, Shunlin Liang, Donghai Wu, Xin Zhang, Qian Wang, Jiacheng Zhao, Xiaozheng Du, Qian Zhou: Developing Long Time Series 1-km Land Cover Maps From 5-km AVHRR Data Using a Super-Resolution Method. IEEE Trans. Geosci. Remote. Sens. 59(7): 5479-5493 (2021)
+Qian Zhou, Mohammed Elbadry, Fan Ye, Yuanyuan Yang: Towards Fine-Grained Access Control in Enterprise-Scale Internet-of-Things. IEEE Trans. Mob. Comput. 20(8): 2701-2714 (2021)
+Qian Zhou, Kai Guo, Jie Sun, Vinothkumar Sivalingam: Research on Tool Wear Detection Method Using Deep Residual Network. ICIRA (4) 2021: 565-575
+Zhe Yang, Klara Nahrstedt, Hongpeng Guo, Qian Zhou: DeepRT: A Soft Real Time Scheduler for Computer Vision Applications on the Edge. SEC 2021: 271-284
+Qian Zhou, Bo Chen, Zhe Yang, Hongpeng Guo, Klara Nahrstedt: 360ViewPET: View Based Pose EsTimation for Ultra-Sparse 360-Degree Cameras. ISM 2021: 1-8
+Hongpeng Guo, Shuochao Yao, Zhe Yang, Qian Zhou, Klara Nahrstedt: CrossRoI: cross-camera region of interest optimization for efficient real time video analytics at scale. MMSys 2021: 186-199
+Jiayue Li, Qing Wang, Shiji Li, Qiang Zhong, Qian Zhou: Immersive Traditional Chinese Portrait Painting: Research on Style Transfer and Face Replacement. PRCV (2) 2021: 192-203
+Yuting Wu, Yulei Liu, Liang Liu, Feng Wang, Lihong Fan, Qian Zhou: TFRA: Trajectory-Based Message Ferry Recognition Attack in UAV Network. WASA (2) 2021: 510-522
+Zhe Yang, Klara Nahrstedt, Hongpeng Guo, Qian Zhou: DeepRT: A Soft Real Time Scheduler for Computer Vision Applications on the Edge. CoRR abs/2105.01803 (2021)
+Hongpeng Guo, Shuochao Yao, Zhe Yang, Qian Zhou, Klara Nahrstedt: CrossRoI: Cross-camera Region of Interest Optimization for Efficient Real Time Video Analytics at Scale. CoRR abs/2105.06524 (2021)
+Qian Zhou, Yan Shi, Zhenghua Xu, Ruowei Qu, Guizhi Xu: Classifying Melanoma Skin Lesions Using Convolutional Spiking Neural Networks With Unsupervised STDP Learning Rule. IEEE Access 8: 101309-101319 (2020)
+Qian Zhou, Duqu Wei: Synchronous Dynamics in Multilayer Memristive Neural Networks: Effect of Electromagnetic Induction. IEEE Access 8: 164727-164736 (2020)
+Qian Zhou, Cong Ren, Saibing Qi: An Imbalanced R-STDP Learning Rule in Spiking Neural Networks for Medical Image Classification. IEEE Access 8: 224162-224177 (2020)
+Congting Ye, Qian Zhou, Xiaohui Wu, Chen Yu, Guoli Ji, Daniel R. Saban, Qingshun Quinn Li: scDAPA: detection and visualization of dynamic alternative polyadenylation from single cell RNA-seq data. Bioinform. 36(4): 1262-1264 (2020)
+Qian Zhou, Ye Zheng: Long Link Wireless Sensor Routing Optimization Based on Improved Adaptive Ant Colony Algorithm. Int. J. Wirel. Inf. Networks 27(2): 241-252 (2020)
+Baoshan Li, Yi Jiang, Jingxin Chu, Qian Zhou: Drug-Target Interaction Network Analysis of Gene-Phenotype Connectivity Maintained by Genistein. J. Comput. Biol. 27(12): 1678-1687 (2020)
+Ying Wang, Qiuping Jiang, Qian Zhou, Yunfeng Kong: Implementation and evaluation distributed mixed pixels analysis algorithm for hyperspectral image based on constraint non-negative matrix factorization. Int. J. Parallel Emergent Distributed Syst. 35(3): 365-375 (2020)
+Yaodong Han, Kai Ni, Xinghui Li, Guanhao Wu, Kangning Yu, Qian Zhou, Xiaohao Wang: An FPGA Platform for Next-Generation Grating Encoders. Sensors 20(8): 2266 (2020)
+Hong-xiang Hu, Qian Zhou, Guanghui Wen, Wenwu Yu, Wanzeng Kong: Robust Distributed Stabilization of Heterogeneous Agents Over Cooperation-Competition Networks. IEEE Trans. Circuits Syst. II Express Briefs 67-II(8): 1419-1423 (2020)
+Lei Jiang, Jujun Liu, Dong Zhou, Qian Zhou, Xiansheng Yang, Guanghui Yu: Predicting the Evolution of Hot Topics: A Solution Based on the Online Opinion Dynamics Model in Social Network. IEEE Trans. Syst. Man Cybern. Syst. 50(10): 3828-3840 (2020)
+Qian Zhou, Sarah Sykes, Sidney S. Fels, Kenrick Kin: Gripmarks: Using Hand Grips to Transform In-Hand Objects into Mixed Reality Input. CHI 2020: 1-11
+Qian Zhou, Fan Wu, Sidney S. Fels, Ian Stavness: Closer Object Looks Smaller: Investigating the Duality of Size Perception in a Spherical Fish Tank VR Display. CHI 2020: 1-9
+Qian Zhou, Fan Ye: On Achieving Reliable and Efficient Precondition Execution Enforcement in Internet-of-Things. ICC 2020: 1-7
+Qian Zhou, Omkant Pandey, Fan Ye: Argus: Multi-Level Service Visibility Scoping for Internet-of-Things in Enterprise Environments. IPDPS 2020: 654-663
+Yihang Gao, Hui Zhao, Qian Zhou, Meikang Qiu, Meiqin Liu: An Improved News Recommendation Algorithm Based on Text Similarity. SmartBlock 2020: 132-136
+Jiajia Duan, Hui Zhao, Qian Zhou, Meikang Qiu, Meiqin Liu: A Study of Pre-trained Language Models in Natural Language Processing. SmartCloud 2020: 116-121
+Bo Song, Zhengjun Jing, Y. Jay Guo, Ren Ping Liu, Qian Zhou: A Novel Measure to Quantify the Robustness of Social Network Under the Virus Attacks. SocialSec 2020: 189-200
+Cong Peng, Qian Zhou: Direct Vibration Force Suppression for Magnetically Suspended Motor Based on Synchronous Rotating Frame Transformation. IEEE Access 7: 37639-37649 (2019)
+Rui-ping Zhang, Bao-yu Bai, Suo Jiang, Shuai Yang, Qian Zhou: Parenting styles and internet addiction in Chinese adolescents: Conscientiousness as a mediator and teacher support as a moderator. Comput. Hum. Behav. 101: 144-150 (2019)
+Xiaojun Xie, Xiaolin Qin, Qian Zhou, Yanghao Zhou, Tong Zhang, Ryszard Janicki, Wei Zhao: A novel test-cost-sensitive attribute reduction approach using the binary bat algorithm. Knowl. Based Syst. 186 (2019)
+Qian Zhou, Xiang Zhao, Donghai Wu, Rongyun Tang, Xiaozheng Du, Haoyu Wang, Jiacheng Zhao, Peipei Xu, Yifeng Peng: Impact of Urbanization and Climate on Vegetation Coverage in the Beijing-Tianjin-Hebei Region of China. Remote. Sens. 11(20): 2452 (2019)
+Jianxiong Li, Qian Zhou, Xinghui Li, Ruiming Chen, Kai Ni: An Improved Low-Noise Processing Methodology Combined with PCL for Industry Inspection Based on Laser Line Scanner. Sensors 19(15): 3398 (2019)
+Jiao Bai, Xinghui Li, Xiaohao Wang, Qian Zhou, Kai Ni: Chromatic Confocal Displacement Sensor with Optimized Dispersion Probe and Modified Centroid Peak Extraction Algorithm. Sensors 19(16): 3592 (2019)
+Qian Zhou, Georg Hagemann, Dylan Brodie Fafard, Ian Stavness, Sidney S. Fels: An Evaluation of Depth and Size Perception on a Spherical Fish Tank Virtual Reality Display. IEEE Trans. Vis. Comput. Graph. 25(5): 2040-2049 (2019)
+Dylan Brodie Fafard, Ian Stavness, Martin Dechant, Regan L. Mandryk, Qian Zhou, Sidney S. Fels: FTVR in VR: Evaluation of 3D Perception With a Simulated Volumetric Fish-Tank Virtual Reality Display. CHI 2019: 533
+Qian Zhou, Fan Ye: GraphiteRouting: Name-Based Hierarchical Routing for Internet-of-Things in Enterprise Environments. GLOBECOM 2019: 1-7
+Qian Zhou, Shesheng Gao: 3D UAV Path Planning Using Global-Best Brain Storm Optimization Algorithm and Artificial Potential Field. ICIRA (2) 2019: 765-775
+Qian Zhou, Fan Ye: APEX: automatic precondition execution with isolation and atomicity in internet-of-things. IoTDI 2019: 25-36
+Georg Hagemann, Qian Zhou, Ian Stavness, Sidney S. Fels: Investigating Spherical Fish Tank Virtual Reality Displays for Establishing Realistic Eye-Contact. VR 2019: 950-951
+Fan Wu, Qian Zhou, Kyoungwon Seo, Toshiro Kashiwaqi, Sidney S. Fels: I Got Your Point: An Investigation of Pointing Cues in a Spherical Fish Tank Virtual Reality Display. VR 2019: 1237-1238
+Qian Zhou, Fan Wu, Ian Stavness, Sidney S. Fels: Match the Cube: Investigation of the Head-coupled Input with a Spherical Fish Tank Virtual Reality Display. VR 2019: 1281-1282
+Toshiro Kashiwagi, Kaoru Sumi, Sidney S. Fels, Qian Zhou, Fan Wu: Crystal Palace: Merging Virtual Objects and Physical Hand-held Tools. VR 2019: 1411-1412
+Qian Zhou, Xiaolin Qin, Xiaojun Xie: Dimension Incremental Feature Selection Approach for Vertex Cover of Hypergraph Using Rough Sets. IEEE Access 6: 50142-50153 (2018)
+Qian Zhou, Xiaolin Qin, Xiaojun Xie: Hiding Contextual Information for Defending a Global Attacker. IEEE Access 6: 51735-51747 (2018)
+Hao Wang, Xiaofang Zhang, Bin Liang, Qian Zhou, Baowen Xu: Gated Hierarchical LSTMs for Target-Based Sentiment Analysis. Int. J. Softw. Eng. Knowl. Eng. 28(11-12): 1719-1737 (2018)
+Xiaofang Zhang, Qian Zhou, Tieke He, Bin Liang: Con-CNAME: A Contextual Multi-armed Bandit Algorithm for Personalized Recommendations. ICANN (2) 2018: 326-336
+Qian Zhou, Xiaolin Qin: Preserving source location privacy against the global attacker hiding in FOG. ICNSC 2018: 1-6
+Quan Chen, Qi Zhou, Ze Sun, Qian Zhou, Si Li: Evaluation Of Electricity Market Operation Efficiency Based On Analytic Hierarchy Process-Grey Relational Analysis. ICSAI 2018: 245-249
+Benhe Gao, Qian Zhou, Shigang Li, Xinglu Liu: A Real Time Stare in Market Strategy for Supply Chain Financing Pledge Risk Management. IEEM 2018: 1116-1119
+Qian Zhou, Mohammed Elbadry, Fan Ye, Yuanyuan Yang: Heracles: Scalable, Fine-Grained Access Control for Internet-of-Things in Enterprise Environments. INFOCOM 2018: 1772-1780
+Ligang Wu, Shixi Wen, Yiwen He, Qian Zhou, Zibao Lu: Observer-based Cooperative Adaptive Cruise Control of Vehicular Platoons with Random Network Access. Intelligent Vehicles Symposium 2018: 232-237
+Qian Zhou, Yang Chen, Chuanhao Ma, Fei Li, Yu Xiao, Xin Wang, Xiaoming Fu: Measurement and Analysis of the Reviews in Airbnb. Networking 2018: 82-90
+Xiaofang Zhang, Bin Liang, Qian Zhou, Hao Wang, Baowen Xu: A Gated Hierarchical LSTMs for Target-based Sentiment Analysis. SEKE 2018: 433-432
+Qian Zhou, Georg Hagemann, Sidney S. Fels, Dylan Brodie Fafard, Andrew John Wagemakers, Chris Chamberlain, Ian Stavness: Coglobe: a co-located multi-person FTVR experience. SIGGRAPH Emerging Technologies 2018: 5:1-5:2
+Georg Hagemann, Qian Zhou, Ian Stavness, Oky Dicky Ardiansyah Prima, Sidney S. Fels: Here's looking at you: A Spherical FTVR Display for Realistic Eye-Contact. ISS 2018: 357-362
+Dylan Brodie Fafard, Qian Zhou, Chris Chamberlain, Georg Hagemann, Sidney S. Fels, Ian Stavness: Design and implementation of a multi-person fish-tank virtual reality display. VRST 2018: 5:1-5:9
+Qian Zhou, Yan Han, Shifeng Zhang, Xiaoxia Han, Lu Jie, Ray C. C. Cheung, Guangtao Feng: A low power V-band LC VCO with high Q varactor technique in 40 nm CMOS process. Sci. China Inf. Sci. 60(8): 89401 (2017)
+Chen Zhang, Ling-Jun Feng, Yi-You Huang, Deyan Wu, Zhe Li, Qian Zhou, Yinuo Wu, Hai-Bin Luo: Discovery of Novel Phosphodiesterase-2A Inhibitors by Structure-Based Virtual Screening, Structural Optimization, and Bioassay. J. Chem. Inf. Model. 57(2): 355-364 (2017)
+Shimin Zheng, Xiaolin Qin, Liang Liu, Qian Zhou: 云环境下的突发关键字查询算法 (Algorithm for Bursty Term Query in Cloud Computing). 计算机科学 44(3): 10-15 (2017)
+Youwei Ding, Xiaolin Qin, Qian Zhou, Liang Liu, Taochun Wang: Energy-aware processing of big data in homogeneous cluster. Signal Image Video Process. 11(2): 371-379 (2017)
+Dylan Brodie Fafard, Andrew John Wagemakers, Ian Stavness, Qian Zhou, Gregor Miller, Sidney S. Fels: Calibration Methods for Effective Fish Tank VR in Multi-screen Displays. CHI Extended Abstracts 2017: 373-376
+Long Liu, Chu Wang, Qian Zhou, Ziying Yao: Design to Improve Medication Adherence for the Elderly in China. HCI (11) 2017: 399-411
+Qian Zhou, Baoling Liu, Fangyuan Zhou, Zhi Zhang, Nan Ma: An energy efficient target tracking algorithm based on triangular cluster in WSNs. ICCC 2017: 1-6
+Xintong Song, Yaodong Huang, Qian Zhou, Fan Ye, Yuanyuan Yang, Xiaoming Li: Content Centric Peer Data Sharing in Pervasive Edge Computing Environments. ICDCS 2017: 287-297
+Qian Zhou, Xiaofang Zhang, Jin Xu, Bin Liang: Large-Scale Bandit Approaches for Recommender Systems. ICONIP (1) 2017: 811-821
+Qian Zhou, Jiandong Jiang, Zhangfeng Zhao, Jiang Zhong, Bosong Pan, Xiao Jin, Yuanfang Sun: Research on the Internet of Things Platform Design for Agricultural Machinery Operation and Operation Management. CCTA (2) 2017: 400-410
+Xintong Song, Yaodong Huang, Qian Zhou, Fan Ye, Yuanyuan Yang, Xiaoming Li: Pervasive edge data sharing in MANET. INFOCOM Workshops 2017: 133-138
+Qian Zhou, Mohammed Elbadry, Fan Ye, Yuanyuan Yang: Flexible, Fine Grained Access Control for Internet of Things: Poster Abstract. IoTDI 2017: 333-334
+Ying Wang, Qian Zhou, Yunfeng Kong: Implementation Maximum Overall Coverage Constraint Non-negative Matrix Factorization for Hyperspectral Mixed Pixels Analysis Using MapReduce. SmartCom 2017: 417-426
+Qian Zhou, Kai Wu, Gregor Miller, Ian Stavness, Sidney S. Fels: 3DPS: An auto-calibrated three-dimensional perspective-corrected spherical display. VR 2017: 455-456
+Qian Zhou, Gregor Miller, Kai Wu, Daniela Correa, Sidney S. Fels: Automatic Calibration of a Multiple-Projector Spherical Fish Tank VR Display. WACV 2017: 1072-1081
+Dan Huo, Zhi Zhang, Qian Zhou, Qixiang Tang, Zhibin Huo: Ergodic secrecy sum rate maximization in downlink sparse code multiple access network. WPMC 2017: 11-15
+Qilong Feng, Qian Zhou, Jianxin Wang: Kernelization and randomized Parameterized algorithms for Co-path Set problem. J. Comb. Optim. 32(1): 67-78 (2016)
+Shimin Zheng, Xiaolin Qin, Liang Liu, Qian Zhou: 流数据Top-K关键字查询算法 (Algorithm for Top-K Keyword Query in Data Streams). 计算机科学 43(8): 142-147 (2016)
+Zhongzhou Chen, Christopher Chudzicki, Daniel Palumbo, Giora Alexandron, Youn-Jeng Choi, Qian Zhou, David E. Pritchard: Researching for better instructional methods using AB experiments in MOOCs: results and challenges. Res. Pract. Technol. Enhanc. Learn. 11(1): 9 (2016)
+Haoyin Zhou, Kai Ni, Qian Zhou, Tao Zhang: An SfM Algorithm With Good Convergence That Addresses Outliers for Realizing Mono-SLAM. IEEE Trans. Ind. Informatics 12(2): 515-523 (2016)
+Wei Cai, Ju Tang, Lin Cheng, Chaohai Zhang, Min Fan, Qian Zhou, Qiang Yao: Detection of SF6 Decomposition Components Under Partial Discharge by Photoacoustic Spectrometry and its Temperature Characteristic. IEEE Trans. Instrum. Meas. 65(6): 1343-1351 (2016)
+Bing Hu, Kwan L. Yeung, Qian Zhou, Chunzhi He: On Iterative Scheduling for Input-Queued Switches With a Speedup of 2-1/N. IEEE/ACM Trans. Netw. 24(6): 3565-3577 (2016)
+Qian Zhou, Gregor Miller, Kai Wu, Ian Stavness, Sidney S. Fels: Analysis and Practical Minimization of Registration Error in a Spherical Fish Tank Virtual Reality System. ACCV (4) 2016: 519-534
+Yue Huang, Yang Chen, Qian Zhou, Jin Zhao, Xin Wang: Where are we visiting? Measurement and analysis of venues in Dianping. ICC 2016: 1-6
+Qian Zhou, Fan Ye, Xiaoge Wang, Yuanyuan Yang: Automatic construction of garage maps for future vehicle navigation service. ICC 2016: 1-7
+Dan Liu, Qian Zhou, Zhi Zhang, Baoling Liu: Cluster-based energy-efficient transmission using a new hybrid compressed sensing in WSN. INFOCOM Workshops 2016: 372-376
+Ke Xu, Bin Xie, Chenggen Wang, Qian Zhou, Yunyun Xie, Xi Chen: An ABC algorithm for optimization of restoration path in a power grid with HVDC connection. SmartGridComm 2016: 576-581
+Xingye Xu, Xiaolin Qin, Liang Liu, Qian Zhou, Youwei Ding: A Context Modelling Approach Based on Temporal Euclidean Vector Space. UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld 2016: 293-300
+Xizhong Lou, Ting Peng, Qian Zhou, Yanmin Chen: Bit-Clusters Trellis Search Based Iterative MIMO Detection Algorithm. Wirel. Pers. Commun. 81(2): 547-562 (2015)
+Xizhong Lou, Qian Zhou, Yanmin Chen, Daorong Wu: Research on Low Complexity K-best Sphere Decoding Algorithm for MIMO Systems. Wirel. Pers. Commun. 84(1): 547-563 (2015)
+Yaoxin Nie, Jieyao Wei, Linlin Zhu, Qian Zhou, Zhendong Niu: Functional connectivity of Chinese characters processing: A meta-analysis. BIBM 2015: 1204-1208
+Giora Alexandron, Qian Zhou, David E. Pritchard: Discovering the Pedagogical Resources that Assist Students to Answer Questions Correctly - A Machine Learning Approach. EDM 2015: 520-523
+Qian Zhou, Xibin Han, Juan Yang: Learning Analytics of Cross-University Educational Resource Based on THEOL Course Union. ICHL 2015: 313-322
+Yuan Dong, Wei Wang, Dian Lei, Xiao Gong, Qian Zhou, Shuh Ying Lee, Wan Khai Loke, Soon-Fatt Yoon, Gengchiau Liang, Yee-Chia Yeo: Germanium-tin on Silicon p-i-n photodiode with low dark current due to sidewall surface passivation. OFC 2015: 1-3
+Qian Zhou, Xiaoquan Su, Gongchao Jing, Kang Ning: Meta-QC-Chain: Comprehensive and Fast Quality Control Method for Metagenomic Data. Genom. Proteom. Bioinform. 12(1): 52-56 (2014)
+Dongdong Zhong, Yan Han, Jun Sun, Qian Zhou, Ray C. C. Cheung, Wenquan Sui: A perfectly current matched charge pump with wide dynamic range for ultra low voltage applications. IEICE Electron. Express 11(23): 20140993 (2014)
+Hong Jin, Shuliang Wang, Qian Zhou, Ying Li: An improved method for density-based clustering. Int. J. Data Min. Model. Manag. 6(4): 347-368 (2014)
+Qilong Feng, Qian Zhou, Shaohua Li: Randomized Parameterized Algorithms for Co-path Set Problem. FAW 2014: 82-93
+Yan Han, Dongdong Zhong, Xiaoxia Han, Xiao Liang, Weiwei Yang, Qian Zhou: Switched-loop filter for automatically frequency-calibrated phase-locked loops. Microelectron. J. 44(5): 468-471 (2013)
+Xiaotian Jiang, Zhendong Niu, Jiamin Guo, Ghulam Mustafa, Zi-Han Lin, Baomi Chen, Qian Zhou: Novel Boosting Frameworks to Improve the Performance of Collaborative Filtering. ACML 2013: 87-99
+Xizhong Lou, Qian Zhou, Yanmin Chen: Low complexity MIMO MMSE iterative detection algorithm. WOCC 2013: 95-100
+Xiaochen Li, Xizhong Lou, Ting Peng, Jia Xu, Qian Zhou, Daorong Wu: A New Balancing Type of Wireless Sensor Network Routing Algorithm. AICI 2012: 82-89
+Ting Peng, Xizhong Lou, Jia Xu, Qian Zhou, Xiaochen Li, Yanmin Chen: An improved iterative channel estimation based LTE Downlink. FSKD 2012: 1721-1724
+Jia Xu, Ning Jin, Xizhong Lou, Ting Peng, Qian Zhou, Yanmin Chen: Improvement of LEACH protocol for WSN. FSKD 2012: 2174-2177
+Wei-Xing Li, Qian Zhou, Yu Zhu, Feng Pan: An Improved MOPSO with a Crowding Distance Based External Archive Maintenance Strategy. ICSI (1) 2012: 74-82
+Kwang-Hae (Kane) Kim, Jing Qian, Zhen Zhang, Qian Zhou, Kyung-Deok Moon, Jun Hee Park, Kwang-Roh Park, Doo-Hyun Kim: A scheme for reliable real-time messaging with bounded delays. Softw. Pract. Exp. 41(12): 1387-1407 (2011)
+Feifei Wu, Qian Zhou, Lucheng Huang: Literature Review of New Industry Development Research Based on Patent. CSISE (3) 2011: 379-382
+Hong Jin, Shuliang Wang, Qian Zhou, Ying Li: Optimal Bandwidth Selection for Density-Based Clustering. DASFAA Workshops 2011: 156-167
+Qian Zhou, Jiong Yu, Feiran Yu: A Trust-Based Defensive System Model for Cloud Computing. NPC 2011: 146-159
+Qian Zhou, Fei Zhao: The Loss-averse Newsvendor Problem with a Service Requirement. ICEE 2010: 3459-3462
+Qian Zhou, Wenjian Luo: A Novel Multi-Population Genetic Algorithm for Multiple-Choice Multidimensional Knapsack Problems. ISICA (1) 2010: 148-157
+K. H. Kim, Jing Qian, Zhen Zhang, Qian Zhou, Kyung-Deok Moon, Jun Hee Park, Kwang-Roh Park, Doo-Hyun Kim: A Scheme for Reliable Real-Time Messaging with Bounded Delays. ISORC 2010: 18-27
+Yigui Ou, Qian Zhou: A nonmonotonic trust region algorithm for a class of semi-infinite minimax programming. Appl. Math. Comput. 215(2): 474-480 (2009)
+Yigui Ou, Qian Zhou, Haichan Lin: An ODE-based trust region method for unconstrained optimization problems. J. Comput. Appl. Math. 232(2): 318-326 (2009)
+Qian Zhou, Weiming Yan: Dynamic Character and Aseismic Capacity of Chinese Ancient Buildings. CSO (1) 2009: 253-257
+Qian Zhou, Weiming Yan: Damage Analysis on a Chinese Ancient Building by Wenchuan Earthquake. CSO (1) 2009: 258-261
+Qian Zhou, Yin-sheng Liu: Applying Research of Data Mining Technology on the Analysis of Vehicles Report-Stop Fraud. DBTA 2009: 315-318
+Kane Kim, Qian Zhou, Jing Qian, Kyung-Deok Moon, Jun Hee Park, Young-Sung Son, Chang-Eun Lee, Tai-Yeon Ku: Realization of Fault-Tolerant Home Network Management Middleware with the TMO Structuring Approach and an Integration of Fault Detection and Reconfiguration Mechanisms. ISORC 2009: 188-197
+Qian Zhou, Zengqiang Chen, Zhuzhi Yuan: On-off intermittency in continuum systems driven by the Chen system. Kybernetika 44(4): 469-481 (2008)
+Qian Zhou, Zengqiang Chen: Application of Chaos in Digital Fountain Codes. ICYCS 2008: 2786-2791
+Kyung-Deok Moon, Jun Hee Park, K. H. (Kane) Kim, Liangchen Zheng, Qian Zhou: Fault-Tolerance in Universal Middleware Bridge. ISORC 2008: 471-477
+Qian Zhou, Hua-pu Lu, Wei Xu: New Travel Demand Models with Back-Propagation Network. ICNC (3) 2007: 311-317
+Kris Kozak, Qian Zhou, Jinsong Wang: Static analysis of cable-driven manipulators with non-negligible cable mass. IEEE Trans. Robotics 22(3): 425-433 (2006)
+Elisabeth Rink, Daniel Dürschmied, Dorothee Harder, Qian Zhou, Gabriele Freund, Alexandra Rossknecht, Christoph Hehrlein: Contrast Enhanced Ultrasound Perfusion Imaging. Bildverarbeitung für die Medizin 2006: 454-458
+K. H. (Kane) Kim, Juan A. Colmenares, Liangchen Zheng, Sheng Liu, Qian Zhou, Moon-Cheol Kim: Recent Additions on the Application Programming Interface of the TMO Support Middleware. Monterey Workshop 2006: 168-186
+Qian Zhou: The development of digital libraries in China and the shaping of digital librarians. Electron. Libr. 23(4): 433-441 (2005)
+K. H. (Kane) Kim, Emmanuel Henrich, Chansik Im, Moon-Cheol Kim, Sung-Jin Kim, Yuqing Li, Sheng Liu, Seung-Mok Yoo, Liangchen Zheng, Qian Zhou: Distributed Computing Based Streaming and Play of Music Ensemble Realized Through TMO Programming. WORDS 2005: 129-138
+Tie-Yan Liu, Yiming Yang, Hao Wan, Qian Zhou, Bin Gao, Hua-Jun Zeng, Zheng Chen, Wei-Ying Ma: An experimental study on large-scale web categorization. WWW (Special interest tracks and posters) 2005: 1106-1107
+Qian Zhou, Guo H. Huang, Christine W. Chan: Development of an intelligent decision support system for air pollution control at coal-fired power plants. Expert Syst. Appl. 26(3): 335-356 (2004)
+Peiqing Ye, Qian Zhou, Guanghong Duan, Gexue Ren: The stability analysis of the Gough-Stewart parallel mechanism on vibration control. RAM 2004: 248-252
+Kris Kozak, Qian Zhou, Jinsong Wang: Static analysis of cable-driven manipulators with non-negligible cable mass. RAM 2004: 886-891
+Qian Zhou, Hui Zhang: Simulation and experimental analysis of the Stewart parallel mechanism for vibration control. SMC 2003: 3548-3552

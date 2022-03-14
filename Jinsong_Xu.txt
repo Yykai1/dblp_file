@@ -1,0 +1,2 @@
+Jin-Song Xu, Ru-Cheng Huang, Wan-Ming Huang, Geng Yang: Secure Document Service for Cloud Computing. CloudCom 2009: 541-546
+Geng Yang, Jin-Song Xu, Shengshou Chen, Yingzhou Zhang: GICR: Global Information Based Clustering Routing Mechanism for Wireless Sensor Network. ICCCN 2009: 1-6

@@ -1,0 +1,14 @@
+Songle Chen, Xuejian Zhao, Bingqing Luo, Zhixin Sun: Visual Browse and Exploration in Motion Capture Data with Phylogenetic Tree of Context-Aware Poses. Sensors 20(18): 5224 (2020)
+Songle Chen, Lintao Zheng, Yan Zhang, Zhixin Sun, Kai Xu: VERAM: View-Enhanced Recurrent Attention Model for 3D Shape Classification. IEEE Trans. Vis. Comput. Graph. 25(12): 3244-3257 (2019)
+Songle Chen, Xuejian Zhao, Zhe Sun, Feng Xiang, Zhixin Sun: Shape Recognition with Recurrent Neural Network. ICAIS (3) 2019: 341-350
+Xi Zhu, Siguang Chen, Songle Chen, Geng Yang: Energy and Delay Co-aware Computation Offloading with Deep Learning in Fog Computing Networks. IPCCC 2019: 1-6
+Xuejian Zhao, Xinhui Zhang, Pan Wang, Songle Chen, Zhixin Sun: A Weighted Frequent Itemset Mining Algorithm for Intelligent Decision in Smart Systems. IEEE Access 6: 29271-29282 (2018)
+Pengyu Wang, Yuan Gan, Panpan Shui, Fenggen Yu, Yan Zhang, Songle Chen, Zhengxing Sun: 3D shape segmentation via shape fully convolutional networks. Comput. Graph. 70: 128-139 (2018)
+Pengyu Wang, Yuan Gan, Panpan Shui, Fenggen Yu, Yan Zhang, Songle Chen, Zhengxing Sun: Corrigendum to "3D shape segmentation via shape fully convolutional networks" [Computers & Graphics 70 (2018) 128-139]. Comput. Graph. 76: 181 (2018)
+Pengyu Wang, Yuan Gan, Panpan Shui, Fenggen Yu, Yan Zhang, Songle Chen, Zhengxing Sun: 3D shape segmentation via shape fully convolutional networks. Comput. Graph. 76: 182-192 (2018)
+Songle Chen, Lintao Zheng, Yan Zhang, Zhixin Sun, Kai Xu: VERAM: View-Enhanced Recurrent Attention Model for 3D Shape Classification. CoRR abs/1808.06698 (2018)
+Songle Chen, Zhengxing Sun, Yan Zhang, Qian Li: Relevance feedback for human motion retrieval using a boosting approach. Multim. Tools Appl. 75(2): 787-817 (2016)
+Qian Li, Zhengxing Sun, Songle Chen, Shi-ming Xia: Dynamic node selection in camera networks based on approximate reinforcement learning. Multim. Tools Appl. 75(24): 17393-17419 (2016)
+Songle Chen, Zhengxing Sun, Yan Zhang: Scalable Organization of Collections of Motion Capture Data via Quantitative and Qualitative Analysis. ICMR 2015: 411-418
+Qian Li, Zhengxing Sun, Song-Le Chen, Yudi Liu: A method of camera selection based on partially observable Markov decision process model in camera networks. ACC 2013: 3833-3839
+Qian Li, Zhengxing Sun, Song-Le Chen: A POMDP-based Camera Selection Method. VISAPP (1) 2013: 746-751
